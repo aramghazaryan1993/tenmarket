@@ -1,0 +1,2433 @@
+{\rtf1\ansi\ansicpg1251{\fonttbl{\f0\froman\fcharset204 Times New Roman;}{\f1\fswiss\fcharset204 Arial;}{\f2\froman\fcharset204 Times New Roman;}{\f3\fswiss\fcharset204 Arial;}{\f4\fswiss\fcharset204 Arial;}}{\colortbl ;\red0 \green0 \blue0;\red31 \green31 \blue31;\red56 \green3 \blue63;\red22 \green33 \blue68;\red58 \green33 \blue75;\red70 \green59 \blue80;\red93 \green93 \blue93;\red212 \green216 \blue207;\red221 \green221 \blue221;}{\stylesheet{\fs22\f1\sqformat\spriority1 Normal}{\s1\f1\fs25\sbasedon0\sqformat\spriority1 Body Text}{\s2\li139\qj\outlinelevel0\f0\fs26\sbasedon0\sqformat\spriority1 Heading 1}{\s3\li845\fi-362\ri134\qj\f1\sbasedon0\sqformat\spriority1 List Paragraph}{\s4\li195\f1\sbasedon0\sqformat\spriority1 Table Paragraph}}{\*\listtable{\list\listtemplateid2181{\listlevel\levelnfc4\levelstartat17\leveljc0\li139\fi-280{\leveltext\'01\'00;}{\levelnumbers\'01;}}{\listlevel\levelnfc3\levelstartat10\leveljc0\li139\fi-280{\leveltext\'03\'00.\'01;}{\levelnumbers\'01\'03;}\f0\fs24\b0\charscalex94}{\listlevel\levelnfc23\leveljc0\li845\fi-361{\leveltext\'01\'95;}{\levelnumbers;}\f1\fs25\b0\charscalex96}{\listlevel\levelnfc23\leveljc0\li2796\fi-361{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li3774\fi-361{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li4752\fi-361{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li5731\fi-361{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li6709\fi-361{\leveltext\'01\'95;}{\levelnumbers;}}{\listlevel\levelnfc23\leveljc0\li7687\fi-361{\leveltext\'01\'95;}{\levelnumbers;}}\listid1026}}{\*\listoverridetable{\listoverride\listoverridecount0\listid1026\ls1}}{\info{\author Image&Matros \'AE}{\creatim\yr2021\mo3\dy17\hr23\min0\sec36}{\revtim\yr2021\mo3\dy17\hr20\min49\sec44}}{\*\userprops {\propname Creator}\proptype30{\staticval Microsoft\'AE Word 2010}}\jexpand\dntblnsbdb\viewkind1\noxlattoyen\nospaceforul\useltbaln\paperw11910\paperh16840\margl1580\margr680\margt1000\margb280\noindnmbrts\sectd\sbknone\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\ri53\qc\sl240\slmult1\sb62\f3\fs29\b1 1.3 <nribr mt\'ED\'EB\'DCu\'F8 \'F8u qu\'F8h\'F8mu\'F8u tnL\'C33J\'CFLU[! \f3\fs39\b1\i0\expnd0\expndtw0 u\expnd-15\expndtw-75  \f3\fs29\b1\i0\expnd0\expndtw0 u qpnLu ubr[!\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li823\sl240\slmult1\sb100\f1\fs25\b0 (.nrtbrt,\expnd-3\expndtw-16  \f1\fs25\b0\i0\expnd0\expndtw0 \'F7wri-wumrwJt,ti\expnd-4\expndtw-20  \f1\fs25\b0\i0\expnd0\expndtw0 q.uwhwt\'EBuwu\expnd-2\expndtw-12  \f1\fs25\b0\i0\expnd0\expndtw0 u\'F9wmw\'F7u\expnd-1\expndtw-6  \f0\fs36\b0\i0\expnd0\expndtw0 t\expnd-8\expndtw-38  \f1\fs25\b0\i0\expnd0\expndtw0 UL\'CBWUWL\expnd-2\expndtw-8  \f1\fs25\b0\i0\expnd0\expndtw0 wuhr,wctb2m\expnd-1\expndtw-6  \f0\fs26\b0\i0\expnd0\expndtw0 lt\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\ri41\qc\sl240\slmult1\sb168\tx1358\tx3459\tx5879\tx7713\f1\fs25\b0\charscalex95 hw\'F7_wumt,\tab \f1\fs25\b0\i0\charscalex80 t\'EBbrtb\'D7\'CFL\'C3<\'7DJ\'CFLuubr\tab \f1\fs25\b0\i0\charscalex85 q.J\'CF\'D9WL\'CBUt\'EBbuw\'F7wu\tab \f1\fs25\b0\i0\charscalex100 hnrtwt\'EBbu\expnd5\expndtw24  \f1\fs25\b0\i0\expnd0\expndtw0 brt,\tab wrmwri-rw\'F7wu\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\ri10\qc\sl240\slmult1\sb193\tx6721\tx8599\dn5{\*\shppict{\pict
+{\*\picprop\shplid27{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn pibFlags}{\sv 2}}{\sp{\sn fLine}{\sv 0}}
+}\picscalex32\picscaley32\piccropl0\piccropr0\piccropt0\piccropb0\picw7672\pich1322\picwgoal4350\pichgoal750
+\pngblip{\*\blipuid bcdc61cf6a909f4c84466465fdf546af}
+89504e470d0a1a0a0000000d4948445200000122000000320802000000777d41
+ce00000006624b474400ff00ff00ffa0bda793000000097048597300000ec400
+000ec401952b0e1b000002d449444154789ced9cdb8eae200c466567deff959d
+8b9d18c703b6d0d2a26b5d4d32fc14683f0b8894755d97204a29dbdf81cdb065
+dfa9e545fdfa2c260efd67d41880f7d3fcd0446600ee84c9ec908b015e0cd90c
+c01d6406e04e98cc0eab49e690909fe628fdb16d470fe73eb01b0ee1acebba8f
+ccb6288d9c34a22298827aa04a525c7036db3ac0a41132f33f502fa3347b36db
+736e2bb90eb2d11ca55964c61925c84f73943e4f1a079c3c44639d64381d8a13
+2bdc6e9b54164b921154395ee5214961f30ae585b5d1d6d31d431fd57f52f1e6
+e3a25aae37ed50a8c6b6bf708f67af278df5b12ba5f8ed58f0141412e823611b
+46b6243917326350f223f4919f2bb5e2f978501dd766f2e94129c524f37cdc01
+0da8a670566eaa58b9abdf296032a0edc8ed4e233becf909f7d1baae158be7ff
+7ef6917a2db3bbb163d4f220f4913938bd812cefcd603a847ae6d1bc5cca8cc9
+617ec27d14de80b9209b811aadc6d0e451668c487ef0d17424fade0cdec1e3ea
+2bc3d1b0c12033d0217c4b067b589b810168ac0ed90c7a917cecf8c189e21e64
+065df0fd8b04268d60462a8dc59e6c3e5488cc22997d49337bfb873199ccbc9f
+3a83adc347984c66001252cd1897b964f6b254466e9c17adefe265263cc1adea
+98ea268c866b33e4a64dba9316e19e87536755633bcc119715c6cbeccce527c0
+c32a8cb53e35973717b8eef857cc3dde86542fdc66faaec211efcd1aee6abd0b
+c4c385e69d6db86bc648eb7924776e8924f8ce5d70ed91ca9c6ddb7a6a4b91cd
+da3e10ec2fbc955115b62a99ea2d530fe623d38f79a8a84a9e8ba590d9f274ab
+c4d2e4215585b6d63dba9399c7ee3c0e88ad2d61e18656b55598f1b221f3f36f
+7e7768f65b9fe2b0d298016c188acc9efd5332a75fbfc3fb646662c5d5d078b2
+4c1a01dea4ab03c80cc01d6406e00e320370079901b883cc00dc41661046e5ec
+d2cb761d91194492e748a72b5cb903316c026b3bb23c17643308e023496ce317
+47a9c893b1678ae70000000049454e44ae426082}}\f0\fs20\b0\i0         \expnd-2\expndtw-8  {\*\shppict{\pict
+{\*\picprop\shplid29{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn pibFlags}{\sv 2}}{\sp{\sn fLine}{\sv 0}}
+}\picscalex32\picscaley32\piccropl0\piccropr0\piccropt0\piccropb0\picw7487\pich1322\picwgoal4245\pichgoal750
+\pngblip{\*\blipuid a8ff2914a2263a4eae2ed7c0c771aa32}
+89504e470d0a1a0a0000000d494844520000011b000000320802000000e39be8
+3c00000006624b474400ff00ff00ffa0bda793000000097048597300000ec400
+000ec401952b0e1b000002a349444154789cedddd17283201085e190e9fbbf32
+bd482763a341c0b3b08bff77d54ea9ee820b492a36e59c1f2d524adb6f0f7fbd
+a60de4e8760f9eb30300964245014a5414a04445014a5414a04445014a5414a0
+4445014a5414a04445014a5414a0f4333b0099ed5d6d0bdcd216259d28719a7a
+75c22bfdf4f1b3d34ee9b853b6cfc791bf9db7702e492e468d07a4d3a71ceaf6
+a7d63ddf54abdac6f563bd6f197b8d2a5f43db99c3bfd37af0934e4da81ee21c
+2fa514f87d94644a76a23e97e9595706303dce5946ac5116d35561e1fe18cb70
+f365399deee35858ace7afcb39075ea35ef663167a149da7f3ae999cb3f350c7
+d8a71cbba2be0da16a9a1f6cb1746ee23d3aaf2f625714a628ac45375ca61eff
+576c179ff5f53d2061b1c19b924ec75f9316eb7639d62840296a452d36532e96
+ce9d45ad28c0272a0a0d584b4f515180121505285151f7c55f8a2d505108af69
+6ab09e47a82840a9ada22cea3bc46b0f57b3203c737117124ec93fb65ea6ecbd
+4d760d6b140b94bcb1293f91dccab372a740d3f0581cd342cdc4bfdd1154df78
+8afa756c7acfb76aba84065f6f69e371b846ed4f7c3d148b63ca35051937a3a6
+39c28f42879f3e18a7dc581bd5f1fba86f1747ceb9fbbab138a65c21c8a6c6ad
+19f5f580ff65f38a7d37969fbe54dfd8cedf935b2c36c644d96c5313c0c726cd
+eb07b473b859fd5b4beb60c6b0b82caf78569ea92394d3d17532a84d41ae9191
+93384f355d961eb2ce391f3cada6bcafb36fbfedf5278f0ef847e8768f5c2cff
+7adf113a4e74bde7557176a4ef7974b68f523c781f6531ba2126456faf1f24a2
+c479caf3e86c4fc75d489860993adfa3a200252a0a50a2a200252a0a50a2a200
+252a0a23146e115aec73bfabfba3f6774f2dd6415089fbcf6f9a2e72761cc2dc
+fb8abcc3fccbab3ed88a7bf37b9f5ff41da465d39aa0a90000000049454e44ae
+426082}}\f0\fs20\b0\i0          \expnd2\expndtw12  {\*\shppict{\pict
+{\*\picprop\shplid31{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn pibFlags}{\sv 2}}{\sp{\sn fLine}{\sv 0}}
+}\picscalex32\picscaley32\piccropl0\piccropr0\piccropt0\piccropb0\picw4471\pich1322\picwgoal2535\pichgoal750
+\pngblip{\*\blipuid cfe6ade65c31c64bafe4433407ca76bd}
+89504e470d0a1a0a0000000d49484452000000a9000000320802000000a8166c
+f800000006624b474400ff00ff00ffa0bda793000000097048597300000ec400
+000ec401952b0e1b0000021b49444154789ced9cdb76032108457556feff97ed
+43d269ea15544691b39fd2d514618ea011531f427053f1de4fb7f93cdefbfbf5
+b6e17c3be9f87ebe249c002a18d51eaaebe5eafe4bef7d49784c0815746a0f75
+0f805df32baa6fbb27025978da978487ea1a61689f0a0fc95543d23e9bee105e
+3b6ded91eea7d2d8e743f883a9690fe1cf86b1d77b40788953740b27f314b3a9
+cd62df45c29b92cd9133838a9f13cd76100d5192412276a2cd7cde0b4d43ca58
+d9df721d682ab743b391e2a49b1dfbb7cdcc7abf8ff0a236d71e4b0b8dce32db
+58ef1f13be5221dd409a4e312b5d2166c5ce7d9e71de2fd919a503750f7dfb1f
+429868762ed24e126df6f77067510ab53e73cf662476faf3bca29f9b26545071
+7e9fb8967b32e7ce563712f12f79a6dcb411729265f62fef8f497a40e4a3fd26
+5b3c3002f779aedfeb8155c4da6bcf4515fe6fe2e4e5fe17fccaed5b70188df3
+fc4d662890e04539fa779804559456ca2b7bac9882b5e03c3e359fd2fa752803
+6711aff76f5189ad658749a099fc5e8f5806ee37589e017a97426affdef25ab0
+c3251f09a8bd1cac0559f426bde3f6f1b86b813b6512a4a91f7540344e82ce1e
+2eb10ce8153e9553a3ba75867a39e19759de6c05312ebde1cfb9bb415f0b7451
+2fe67a557f23b283ddfc835fdf6585c12b0ed25f39ea302b72676b5bd547382f
+28dcddb00bb4b70bb4b70bb4b70bb4b70bb4b70bb4b7cbe2ef642dc7f2bf8f43
+dedb05dadbe507a812567e5901df8c0000000049454e44ae426082}}\f0\fs20\b0\i0\up0       \expnd-2\expndtw-11  \f1\fs25\expnd0\expndtw0 t\'EBut\'EBbuw\'F7wu\tab \f1\fs25\b0\i0\charscalex90 q.uwhwt\'EB\'CFLU[!\tab \f1\fs25\b0\i0\charscalex100 ubr\'F7w\par
+{\shp{\*\shpinst\shplid34
+\shpleft1726\shptop246\shpright11086\shpbottom486\shpfhdr0\shpbxpage\shpbypara\shpwr3\shpz0\shpwr1{\sp{\sn dxWrapDistLeft}{\sv 0}}{\sp{\sn dxWrapDistRight}{\sv 0}}{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn shapeType}{\sv 1}}{\sp{\sn lTxid}{\sv 65536}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{
+\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\shptxt\pard\plain \ql\li0\ri0\widctlpar\sl240\slmult0\pvpara\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0
+{{\*\shppict{\pict
+{\*\picprop\shplid34{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn pibFlags}{\sv 2}}{\sp{\sn fLine}{\sv 0}}
+}\picscalex32\picscaley32\piccropl0\piccropr0\piccropt0\piccropb0\picw51514\pich1349\picwgoal29205\pichgoal765
+\pngblip{\*\blipuid 0be234b5b65d794b9b763d1b073f93f9}
+89504e470d0a1a0a0000000d494844520000079b0000003308020000002677f8
+db00000006624b474400ff00ff00ffa0bda793000000097048597300000ec400
+000ec401952b0e1b00000ab649444154789ceddddb92a4281000d0ae89f9ff5f
+761f3a76a2a22e0aca2513cf799b691b31491028cb7e6cdbf6c3358fc7e3db8f
+2284f7a57a4daad4a3cc8f854708e00282a7282b09926c5dc7a8565254b29314
+e3fc9d1b08e25ba687a6180f43593262cbe433cfd22dc3996bc9c12d05910feb
+70c4fb3bb0326bdad9be09a847ffd4e783cb95a2e425d30000e09d653840737f
+665720373b3804274501000000588967b45bf23129c14951c690690070c89307
+b5440c8086dc5652f38c76337670084e8a02000000909d1d6d000000000072b0
+a3dd4c8a6f2bf4a8648a0be7474b010044f2f2fd3953b54322465296e11093db
+4a6adea37dc9b66df133fea592ef153ef1328a1e65d2438a14653d8fc7c32000
+00b54caa6b89186159864346ba55229ed16e29ecd6e17e0f3c57ed1e65d29b76
+a11f777a00a8e5ee594bc448c4321ce2735bc9cb8ef65559b27fdbb66f553d7d
+093dcaa4396dc114e6d3005062fbdfec8aa421622462190ef1b9ad246547bbb1
+e09b38ef5df47aa7ed5126fd044f5152d3f701e03493ea5a22461696e190826e
+958b1ded7b79d9cd6cd2397b94092cc0c7270050cea4ba968891856538a4a05b
+e5e22f4336e08fef2de0b9055b0d5b3dca3c274b8a368f58d8664d71a54c9722
+4fb2e4de9daf3d82e9b19a5e8156fa5dc83221ca6bb155f4808c5a2c62e345e8
+f5111a31421cf84932ef656d6346a4653233c400fef2efaabf3370f1e0b6a5d5
+1e7c98469daa5795be6d0fae4db892b30f28f384f264db3957d5b5b42af3a7a6
+d1fbf5a04e9a472c51b31e167258ceb7c4681ebdaab35f3fb893d3c3c8c80aa7
+ee116d8b3d617f9cefda479a8c063d4c9c560dcebdf283cf55a0c7dca6fce0e6
+99dcb5e4a4d3da2665765d9bb43d7b0fd3a7c13b75387d70c051f4cad907b4d1
+feafecb4e6e134e0f4ec7ad8b8dab5c3ce5a8677957dde7b787cf3fbda39fb7d
+ad79049a5bf8467c7a2b20c85cabeda474e744553ca3cd7ded779bdf9fd676c8
+1e65aead79c4c236ebe1305d5bb79202255b3a0bf4889f30b9d7bcd31d966990
+7f363d568715c8d252fd7a5c96be7c4349c33eb1d7278dd878d347e6c33a8ca9
+89d12f8814f35eeea9619e140e7a293273fc9ec63eefd16e2345f2f1acc947a0
+03ca6c25668a368f58d8662d2fa4f0c8b687f533bd02b9acd423a6377dd8d1e0
+26a6c7aa7cc724b87e3d2e4b5f260ba912dff4367a3c1e5575e85461a35f1029
+e6bd7051f37d8089dad6b0f68ef09167b46faac7fe6696327f6abe0457fe5959
+8f32d7d63c62619b75ff1b49efe3786d86c8b743292290ae47b42a7640eb848d
+e7aaa6c7aabc02891cbea6e04a30a5f4747933f3d7f85e9f3d62e3851a99dfeb
+30b832dfaa31e0ec8996cc5da598f74e14bf86eb19f0344cd7b9dc60177bd9b7
+68d7be36c733dadcda7b97b83e82f428736dcd2316aa590f47e11375fb57e6b6
+6df26d3d597a44e4dcebda47225f7834d36335bd02173d67f2fb4faf5c8bfb08
+9d48a7f8a6b7d1c76167e7a7cd9f0adca986741dcf3c8d55957c8c9728391b0e
+9eefa3faf6bfda5ad9d1eec25303297ceb305766513dcaec617a05fe691eb1c8
+cd5a584e768b5dce60297ac402c47380e9b1aa7da40bb8687aafe7d0ac36d2e8
+7c64de0bcb68de6d4bd8d1064869fff1969135e16eb2e45ea8ca30d84aaddfaf
+c765e9cbc0320ac796defb8f463f60a465c69cebb52d7c035521efd126bd9d77
+66ede83170e41a8c22681eb1bccdba6ddb73261fbe794ab22d498ff8e6c438bf
+ccb5272556adf48ba436a22d1915dff4369a5e815f41aa418a796f64e7b64108
+2ef2abb403f659cf6803f4629e010000b533613367202f6fb6f9a87958ec6873
+479edd8b20e0477c63ca848ff488e0ee7cedb5a6c76a7a05e06e74baf8b411a1
+a498f702fd34e9b3de3a02d08ba9150000ec3b7c70cf171f81440c5363d8d106
+08c74bb4e10a7d8435788936b0866f63cef82fe61bfd80c8c28e51cdff266413
+de3a02309f376d0100701f66bf005ce1196d00000060908fdbd92fcf007ad308
+003bec68939bcff6598f293b3c33ce03c04a5eeeeca6be50cbf478193eba2bf4
+3138de3a1257d520d57c44eb31441a76e1a3c5bac6629703b063ee6c2d118102
+3eb283f3c2323c0bf735a2b9614edad10608c4b41e00da5a63d906bfb2e773f6
+fa03b472ab07b47b5c60c58ef6c4fdfef81f35b831139c140d4bd30083c59f56
+55895f43d6b3de3729d736b709b4179042aec16a811b71ae80c7e419eda016e8
+9f49cb8491d67b8da05e495b328ac8ec6a151228801296cc59acb75dc35cd7f7
+01d69b6b9554b27447db03dad14e7a51969b65c6d806248c2964d9ce964eb425
+a3068b3fadaa32b186f183c3afc59ecf9578b52400a1583253627c9be6caa205
+c6e15bbd6fe4a3aa307e0bd19f92d8fd3b53d5c1a7eb34e0d4255ecef8adf02b
+27ad2ab34705c61498a8cc5c06a4285dad771b936cb425a3aa049f56d59a58c3
+2ba7bef3bd78eeb4b64981719645774ea4423d222601c6289cf4ae71b1552c99
+a7bbd213636ed7a41b5b6e320e8f99ed046ceec220efffe8d9eb33daefbf5675
+8eb6dbbbc34e5da8c74977ca7cef9f55079f3bf595021395b9aa29fd8273526f
+67eb95b425a37a883fadaa32b186fba7ee3d5bcb65e2b476bfc073e676a2f8bd
+321a0990d4f31dfff93f9fffb9d8e069c99cc862db35df8a3d57d4004b8ec317
+c7b7b973ade64af6e277aafab7b0c46fa5ec1c7ca2b1279ebad0f593be1fb9f3
+8b5507b73df5626526f5f1c2f7879e29fd825a01dbe2bd4acf99b640afdcbf40
+065b20a352883fadaa32b186fbe5c7c9e713d3868b424d6b770a3c9d24733b51
+fc5ed9558469b00438746e7e1567d86c65fc447abd1886957abbe6a31463cb3f
+6b8fc3cd07ccf823436d0df743f4e7f0889752aa0e6e7264a75397282cadc752
+a1aaccb601ef74f6e9652e49a0324afad449ea64fbf6d96fb41bfcada4cea8b0
+824fab6a4dac61e1a93bcdd6d6b3d8b476e2b2a8aac0e54980d49a4726384be6
+2c26b6d4dcb3c7c993b5c7e1e7e5e794ddcb1ea7aed5b045fe941cf7f2d3aa83
+0f4d3c7589c3e5ca89931efecacb27bafb47360f78f32b8a53e6927aa428fd24
+ddcefeb564afb4a93dd19219355df06955ad89356c1bc908c1ec64fab476f044
+bdf7b2287eaf0c4502a456327aac74c996cc594cbfafb52db0e4b7a2e5c9aae3
+f0e9edecb939d94349354aeaf97839a82ac4fb07d76edc343c75891325f4f838
+65f055f72e306c99a9b711cbf5fbc42fa674cd9aaec23b8227dbce773fbd7ea4
+b773b931e5b65e5e60ab32471a39c11810ab89634eeda90757b5fc74032a1679
+5a7b224b235f0eefe63641fc7c1e6f4c005384e25dcc25732e639abed3fe5896
+0da8e9228fc3574abb52e0ac197ed76c397f0be857ade077975c3d998b826723
+e7a46b56c34e10e932279759796e477b22b19a28d48e7664b29495a4c8e73163
+4e8a50d043baa6bff95df8e6d2a5ebaff849fb677605006e21fefde03ec41f00
+60012675407049b7b353b0a30dd09d9735030000c07dd8ceeeca8e36405f6e63
+000000701ff6017ab3a30dd091db5840de000300004027bea53d801d6d805edc
+c682b39d0d00004043effb00169e3dd8d10618c46d2c88df86d01c00000090d1
+8d76b43d2c09c02fdbd90000e9bc2ceabd4a0ee0b6feceaec0203b773e8031aa
+461e937216f031e7e5360070dae3f13097007229df0a30be95bbc58ef6bfd4b1
+b4060000807476d6f516f5007773a3b78e7ce4ce07f46384010080eb7ccd1ac8
+c23ec018b7d8d1fe964c920ce8cd38030000176ddbf6715efdedff0126322e0d
+f01fd36ab08e4dbcf8c20000000049454e44ae426082}}
+\par}\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {
+\par}}}}\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb11\f1\fs17\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\ri31\qc\sl240\slmult1\sb154\tx1052\tx5830\f1\fs25\b0\expnd0\expndtw-1\charscalex60 q_\'CFLIO,\tab \f1\fs25\b0\i0\expnd0\expndtw0\dn5\charscalex100{\*\shppict{\pict
+{\*\picprop\shplid37{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn pibFlags}{\sv 2}}{\sp{\sn fLine}{\sv 0}}
+}\picscalex32\picscaley32\piccropl0\piccropr0\piccropt0\piccropb0\picw7381\pich1349\picwgoal4185\pichgoal765
+\pngblip{\*\blipuid 148d0cb4c3b1b74988194030a7538fdb}
+89504e470d0a1a0a0000000d494844520000011700000033080200000032fbdb
+1700000006624b474400ff00ff00ffa0bda793000000097048597300000ec400
+000ec401952b0e1b0000027d49444154789ceddddb7283201080e1eae4fd5fd9
+5ed4b11914d865578eff77d7c670920d480c6ec771fc4c61dbb6ef3fa7a9579f
+a669edef8a14d762772a0cb02ea208b0228ab0ae605e5a8c2802ac8822c08a28
+c2ba8245b9e209dec7a330c024ee812459fe662cc2d25cbee9622cc2eaae402a
+9ed1311601a7fbb8241ca98822e0547c5b537446e7727fd1ab09028e2c770686
+51f43835bcfe99483a568844829282be177b925653b5acfbc1d9bab72d9e4aff
+adad1224b8275ecbbe599bd9fd55af5b300047da30fb8f22618796f77b22048b
+386774e9212f7875dbb66cb026662305a901af327ee2eff72424eb7df25c8b57
+0f8151842bddb12e5ed6f585a931f7c3d0f8be08b0524491763862e68645ec7c
+190a18bd35a32320b18e0fdd1d30627501b0524411ebd1c0a3c2b18879207061
+46075849a38805712066d1b1886bbc9aa66f6d5114311065a93a4afd5ed579f1
+b4da56e79e603e8afa6f53a02ddd8c6e8e81a8c28753cddc7d736cdb38ee09d6
+c93d134503cde584bfb65035ab6a6708ed3612760d8b37596b1bab938aa28142
+e8d1bdcec64eac4ad03df7acb6c59bacb555098a76d2eac46391549bbf7cbfab
+ac8289042be49ed5b67893b5b63cc1e7b168d0a7760acba9aa8ee4e0eb18d5c1
+2e1a166fb2d6b654e7218a060da13fc771a40b5c501d5582eeb967352cde64ad
+5d5c9d70ff9da1432890beae2ba8a9ea42d17e55a94da172f15409f6dfdaa6dc
+135134740865f5ff7931d3b9e8bfb52da27ba34e564fe03deabd510104ce289a
+7bc0055e25da1b1540c2ce440e3092ee300c2066d15fe9f58979c1a044cfd28b
+61e072747f204dab92402b7a372a6aba62a6e08e5b34b773863ac709eadffec3
+79ea80ef63a350d92f11fcb097bff76c8b0000000049454e44ae426082}}\f0\fs25\b0\i0\up0       \expnd-1\expndtw-3  \f1\expnd0\expndtw0\charscalex80 hwr,wpbr\expnd9\expndtw46  \f1\fs25\b0\i0\expnd0\expndtw0 nL\'C3<\'7DJ\'CFLuubrnLU\tab \f1\fs25\b0\i0\dn5\charscalex100{\*\shppict{\pict
+{\*\picprop\shplid39{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn pibFlags}{\sv 2}}{\sp{\sn fLine}{\sv 0}}
+}\picscalex32\picscaley32\piccropl0\piccropr0\piccropt0\piccropb0\picw9657\pich1349\picwgoal5475\pichgoal765
+\pngblip{\*\blipuid 5df890250dfbe1459f470590581e7ff7}
+89504e470d0a1a0a0000000d494844520000016d000000330802000000d390ce
+4600000006624b474400ff00ff00ffa0bda793000000097048597300000ec400
+000ec401952b0e1b000003de49444154789ced9ddb9aab200c46b59fefffcace
+85b3bb3b56310981045deb6e3a361c127e03229dd7759da001f33c7ffe493f43
+4e5c02f5e55419288188c0109803151d01805ad01100a8051d01805ad01100a8
+051de9c16e491c2027e6409d7994d08eb257e87948427da0928f34a4ec009214
+48427da0928ff4e0d013f43c64c31ca8e4233df8f60422020931072a3ad203f6
+c8c3109803759158ac8ffb7a6b4c0d86a09162fa46e3b87548cb7e7dc4b6727b
+163d056b724f5c2ef35c9a5205b776245c8697bb41e1358d2e3ebba0c6d72de2
+47deeab283eac34f55a5249ed51a5ccefe71f64daff1bffd571b6135a6a01192
+b099f40e72899f1a840fd408bfe9737d44d56b5e97a98cac1f342a11b4c8bb5d
+e5a0706f6a2b105ee1587ef311556a779995143228b9a97295b63f8773de8def
+5a8ee2ee123f350833fc3e950941db90d724e8b5ef4f84f1e1f5bcf3ec5bdaa9
+2cf8f2eef046e327e479f94ec50a25de4635ead93ff7158e58095e831f6f8d4b
+8dd087df3c2481c79d6c23e9fe11b93f706438b714fa5b36aa1d0a1d51f52c6e
+7808dd66343d21d4b5bc92efae31e49600813c33236e32af891dd8cf74e49d18
+2819818d2561af21049019e1bebbe9499274fa7e0dc025cf192713b7b7228a79
+4db77e14beb501d087799e89c332c67ca4e78de84edb046138242f9a732e44d2
+fd233bb81b4012ca3b5c1f8b5447c21f0f9b77a635c55de0620db6d6ebe14660
+e64423d6b33b8349f391b397be484c208a5422920d918e842423c2972c0f3f31
+834e0118b8d691c0a165386a84498dd9600b47a3cb8d4835a999b4f39a90d4ae
+5ba11d82fec9e3ea21f3827b34531ba8173a12bebcfa2ebae63c4b49cdb57b10
+f32423675f3cfc5c7571253713cdfecdc9e9d94383251d4922228775d8ea66ab
+a16a85a5ec3343b71c965eb993bad022c919541df67167881f039253299aea4b
+a06755812afadd89841c1eb328e7ac752d4e7e5dd7f5fb00be1a835a9b2d2aa0
+e5bbc4f0952c2fc9aeb7b9b310e5d91a6bc7f948e6c7e66f5c0ed73abc46d85e
+79b7b81bf42db751e9f7c0ddcb2e34f2ac39500f7424bf88ec84d36594aa121c
+c3a6c6ce067717b897fe2824fde3d881b19eb519bcf81d2cdba263bba0742948
+a5412d9ae6bef0646e11f231e95d6cee40c317633d2b3758d211f3ca65a3e8cc
+9f28c18884dc056f16bd7fe63599db898800a4e5fff39ab40f686297fa01e092
+df7c24eddd1e1101c8cf328d2322792a06009f2c39a733a421000321fd5dce58
+72d60a0036329e6394334502d0f29c48debf5fe3bed9dc05ad3fc85f209cf077
+9a7ac2efd700f8f3560dc7570433f34ad8a4845502f0e296e1fd9a52366cfd47
+7445002cd41ca935223fbc56ee64db8e9e8c0000000049454e44ae426082}}\f0\fs25\b0\i0       \expnd1\expndtw4  {\*\shppict{\pict
+{\*\picprop\shplid41{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn pibFlags}{\sv 2}}{\sp{\sn fLine}{\sv 0}}
+}\picscalex32\picscaley32\piccropl0\piccropr0\piccropt0\piccropb0\picw4233\pich1349\picwgoal2400\pichgoal765
+\pngblip{\*\blipuid 5f6151c18f94744fb47617cd318bf5ae}
+89504e470d0a1a0a0000000d49484452000000a00000003308020000009f5f94
+9700000006624b474400ff00ff00ffa0bda793000000097048597300000ec400
+000ec401952b0e1b0000021f49444154789ced9ccb1283200c4585e9ffff325d
+38432d6208e16108f7ac3a1603e4120443eb4208872d9c73f17397de5d0df6b2
+390dff7603c05820b07120b07120b07120b07120b07120b07120b07120b07120
+b07120b0713ef4d7dddfeb4eb0bc2184335dd6b9c9ebf5048e1e4f2fe809cb2d
+66893202521f55261b048da46d12858bfe4c2398e39db34c6dd8152dcbcc6e0b
+c79f21049f5c4a0a850bb515c80ab7c7df0ef0bdf48be0e2a4715eb9163bc748
+6de3e809506c9653973d68673ae77cf60bc22f4579aa1a44d705b2449f739c39
+759bf4a425341e4746e0a2bba1870698d1f2399ad735cc47a6da61b1e28e9cdf
+ce34829977aee20830e9198c01f116becbbe139b57b520d9b01e55d32104360e
+0436ceee029b5f3df82eeb5b2c92d5b27b047747db94900acc6c9fb66e18a6d1
+d585233bd3786592df6198faa33e03b8d0ef65274bd8bdba7683f9673061d7cc
+a8e777841900559e111c4093e19feacb5acf9ee9696fc450b22746889cb9d8a6
+c0ce388391df333884703ff041dfccf78eacb932ef0b3a22e0c9e6bdf6b70c9e
+fc4dd1550ed51cbbdd939e23b2a87392e8997cf0d2d9fb08dd426637ab6e693f
+7fd86ef04ee13086f8b4c3a095b6ccecd0ffdd292e5f6ad7537d83a7b00fd61f
+a91cbaf742bfc1c862af2a6d0cb8992c2630a805021b07021b07021b07021b47
+bbc0c44b47aca8396817f83094bf7a052d09ff2c51da15b3584ad01bc108dc2e
+e88de0fb1f0a5caf03265f811a355e35ad9c750000000049454e44ae426082}}\f0\fs25\b0\i0\up1      \expnd5\expndtw25  \f1\expnd0\expndtw0\charscalex90 Lt\par
+{\shp{\*\shpinst\shplid44
+\shpleft1716\shptop241\shpright9476\shpbottom481\shpfhdr0\shpbxpage\shpbypara\shpwr3\shpz1\shpwr1{\sp{\sn dxWrapDistLeft}{\sv 0}}{\sp{\sn dxWrapDistRight}{\sv 0}}{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn shapeType}{\sv 1}}{\sp{\sn lTxid}{\sv 65536}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{
+\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\shptxt\pard\plain \ql\li0\ri0\widctlpar\sl240\slmult0\pvpara\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0
+{{\*\shppict{\pict
+{\*\picprop\shplid44{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn pibFlags}{\sv 2}}{\sp{\sn fLine}{\sv 0}}
+}\picscalex32\picscaley32\piccropl0\piccropr0\piccropt0\piccropb0\picw42703\pich1349\picwgoal24210\pichgoal765
+\pngblip{\*\blipuid b8186fea555c384981745f33d92a673e}
+89504e470d0a1a0a0000000d494844520000064e0000003308020000005ec163
+1600000006624b474400ff00ff00ffa0bda793000000097048597300000ec400
+000ec401952b0e1b00000abb49444154789cedddd196f3a60e86e178d6dcff2d
+7b1f4cebed3a090623f109f13e47edfa1d10020321ce64dbf7fd0574dbb6edf8
+ef3483eadca857a276194a93a2940318c014987f5e895613570c1500679799f3
+ec3245307b84e5d7353117d6bfa8c604f33ba00e0000000000d0af70c885b08e
+5e0b72ea345ee5b8b54ad44fcf8b010000000000f00de75cf5e7b3478a3a8f74
+79aa0b06f86001536300035061fe0100f458f6e8248175f6009296f254170000
+00000080bd951fe9dab6ade79cabe7b51c75010000000000c046cf21d7f94cf0
+71211c75c140e1373e80f818c00054987f000048ecd90f654eadf3492e2bfcad
+2eb8781fdc0b3eae8979318001a830ff0000ea6ddbc63231859a6e4ab907d8f7
+fdc1c9d7f955cf06394f75c146829b102b6300035061fe01003461e198c5ed11
+4fcaaefc6bd4fe2f55183cd50533563f0b0a48308001a830ff00001ee3c1aea9
+a5dc03980fc807839ca7ba60ef7d1432f962220c60002acc3f00801aac0e73a9
+e92ff600179dcde7a80bf62e07d28bdfa2980e0318800af30f00e0814c0f04a5
+d1da29ec016c95bec078ceb536d1f248e40108b5b63df82dba7257a246f0012c
+24bf77e40118f26b8b47c971321f271227d1e69ff4095f56ee89623079c3e501
+58996b654cc624451f8f754c126ed583d116d98be0e14550f31dc6bf34fe5df6
+e1eaf2e9e33f2f6be989dbd1f9adb4fa1fe67c56af6b008f53d47fb149698fdb
+6ede7061734c3e1e29ff88acc9409a65b0555e2f6c8e6bed350276a57c1a34b9
+796dfbb16671f9764de7bae654b27799b7d797536af8275d1f6f486e4b33b958
+3bff7c2bf9c2631f785be96d3c56559bdcfef517f77c9af86002f4b8a3fbe7b4
+1a2c8e560124cba46bc9b3cc0c0fa605db6d49b990caa25cc32b97731425ff0c
+40bba9787f89df897353e13d69b97e81f176a49abcf9af51ae68db36ef48e401
+08ddb6bdb29c20a7d156cdc16a820c6021f93498e9e6bd4dd7e3e67894ec17ad
+6d184d97cd4535ffc4d907c296c77c2e5f2354e40d8f303f9bf0cba4bc8fe2b3
+5ae82b97e9dab04e2fb10a4fb5aef51c1bf11ee4d073e4fa53fee7fd5fe5cbcc
+c9671fc37b7b3a4e13964ab2e600c3c8ef8b4c37afdf9ae251728415f0c1fb90
+5906436471f681b0e5d165cb0e0379c3d32c8ef295319ffa865b25ff729a73f6
+3836a7f0de837c1c1e66f1ffbfd575e9e04bf77f7c5edd49e104f412c0e6f3bb
+aaf501e4d3d9f668f9b1ed4aced7d38b36808598879ddc6efe7af2e9d153f2de
+ff18c6e078c6900fec38fbc0f7dacfe4899a8ec77c2e5f2354e40d4fb338fa35
+44de47d3799ca5f2534bfbbe6bf721e545ed357c5d2b0b12464ce7b154e8f1f7
+21f773bce672ddb7d7f746dae2db885c2700a1646d4fd61c6018f9bd230fa0df
+b1c27e8cbca739e792ad12e551e663df3e1c56c59358cc7d206c79dcd1f25942
+45de70790056fc1a922645e64c16fa9a6fe73d7bb6cb631fc2466241fbbe5fff
+56d7ebaebf878d86ca7bc6ef04541e80504d2f4fd4f064cd0186914f83dcbc0b
+6aedd01516e5c182ec0361cb633e97af112af286a7591cfd3229efa36182cfc9
+c1c3f3936068cde8186f7ffff1e1a80b8b4b3625256b0eb08e6437afdf278a1e
+2547f8fc33d900000013cc8d3061b5d03b0dc8cef09afe243cf75426e787017f
+5edd9fa07a900f38790098d1f65fea70802e4c8386fc92e9517284ae8fb0cf5e
+47c07d206c659d2824966db8b9b956c6643a53d4f3f867cd6b93f560b2e64ce4
+fa54173d01000084466ec171c13e100030357e7c0c7f227e81513ed4e4010825
+6b7bb2e600c3c8ef1d79000090038f741992375c1e80151ee95a8ab053180ff9
+d41f65febac601000060eb769753fed54b000000e4f6cb73fe0000f899ebb36b
+f9d9502100762c1ec82a002c45bed097050f0f13e1a92e0000101ac731000000
+a8c75117000088ebe33957f9179df84c18008001b66d63cd454c11ff2c3d0000
+c047fbbeb3ab060040a5fc69132695af1f7fd82f02005029df3e20381ed7f296
+38a5e6776b5381dada010cc3ccf07abdb66d0b120970e0a92e0083b0040268c2
+39170000017d5c91bf6df5856f0178f7b1328ebaf4841f05686ffe641f6b78d4
+9eec1369732b7f8cb67257a6a91a535b79fe01c2627194541d3f93f0d074da55
+7e159a2c7ec7d50fa1eb51d7e2890300e01b9648a497669027fbac284dbf00c9
+2c3e333c3bedf2f6e034cd356679426a4c1164ab9f57fb68489908151ee90a5b
+a0bc76b6e98605c66f8e5fedf167ec593eb5c62c067c629c6cfe611f180159ed
+c7e228a93a7e26a7163fbd1f7f2be61cf6f9bf258f74c5cf619364cd71f5e10b
+8ce5f491dc4a3577f291cca68b6dabb655f97b1c4db5e76ecef814b90e369ad3
+49d8760f716ede72d5f27ec737e37fe369e5f9a7b20af98de03ab134a57d581f
+c9732ec7e228a93a7e26876166b815ed6b894dfb078f4cb62644f8aeb3b5d8c8
+b693d771d415678395d57bea9a465b4fe66d4b93d79eac391e650a079bbcc0f8
+cdf1ab5d1b6a0d6184ad5517ae8fb6994baf667fe23790d6997fe6dd079adfad
+4d05dad6feb134269f772c8e92aae367d21533c3addb2f336a43fdb67f083b8c
+87bdeb0c38964c6cdbf67bfccfbeefe7c637a5f2fde26899fad89cc1417e4b69
+d3979c2fddd45ff580dbdbbcf664cdf1285338d80617a8ad5d3bde9a2e0eb290
+0b236cca64e1fa01222c58e60cf709e5ae314fd43af3cfbcfbc0ce54bc27b350
+60d3c5b655e38cc57140d54d178f8fd37b92616678a0b08e8cdfc6cc9bc6c3c8
+779d91550ea4f7a6fde70b8c954370f60df73035893aae69bad8b66a5b1ea368
+c1e67894291c6c4d05565e3c51739a08dbee21f8cddb94c9facb60cbfcfeed2f
+64e5f9c735804a9289c563a1afbf529e7339164749d5f13329c7ccf0d1e52c46
+15e7e0fd4327e1bbced6626771fd5b5db78d4c99053fe5745dfeb5e962dbaa6d
+edfb6e5e7bbee66853643ed8688e2161db3d686fdefa7fbdbd3842329755937f
+c30e62fe11065069e496e97281f95cc1e45389c5515275fc4cfa616668751c6f
+4538e7aaacdd2f93e7622b9fa552bdeb0c38960ef58fa1bdb7622b34ac30462f
+5596b31367ac5b696afefb4b6eafb7cd9836ffe6b5276b8e4799c2c1765be05c
+f78e47817eb57786faa06b7aaa189cccd6aac7875a5f63be25f535b0835c2b4a
+36ff940330df073e9e82965d4385b3e8f8da2f581c25550f8eb33ef3630667e4
+99614c09adb578d7f54079a8447b97278947bef178d77a83ff5dff77d96fe1ba
+20cdcba12999b6990f7e942e2f505ebb3645f13b285973fc6a8f3f630b23b4fd
+281572c33a68e5f927420035587416c4e228a93a7e265d3133dc0a7ecef58a17
+4fd914ef3a07ab89ff7ccdf50b8c00000000000035e29f734990042d8eba0000
+00000040b3f7af9871c4f36ec69f3e94eb4c5ae90b8c000000000000173ccc85
+611e0c2d9eea020000000000b5329d73f93d72356f4e12e0a80b000000000054
+99e29c6bdbb6076758237fa11205fd3f07c951170000000000b837c539573def
+13a8a993333597a32e0e2c0100801c1b1200005cc53cca393600e59dc0fbdfd4
+778c896d49b5fe47ba5e1e7f96fed27f2b7467b2836d00001258704312dfc75e
+60d7f40099041044a82f09fef9b60138d73b7257b0ef3b9b90677a868af15157
+f9f494051800000cc086040080357d3b5a2a9f378dd91b6cdbc626a4ccea5870
+dcdfeaa2470100801c1b1200001e9b6219ddf7bd3ecea68b1fc7e35a7e4a9d49
+337eaaebdb012a5d0b00008661430200809363310dfebdbcbf380b418edc15b0
+03a96495a8ff01eee8edcc79057f1f0000000049454e44ae426082}}
+\par}\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {
+\par}}}}\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb6\f1\fs17\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f1\fs20\b0\i0\par
+{\shp{\*\shpinst
+\shpleft4990\shptop293\shpright6716\shpbottom313
+\shpfhdr0\shpwr3\shpwrk0\shplid48\shpz2
+\shpbxpage\shpbypara\shpwr1{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn dxWrapDistLeft}{\sv 0}}{\sp{\sn dxWrapDistRight}{\sv 0}}{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 1726}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(1725,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9154}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb5\f1\fs21\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\ri1090\qc\sl240\slmult1\sb53\f1\fs17\b0\charscalex50\cf5 -=\expnd1\expndtw7 :\expnd0\expndtw1\charscalex105 n\expnd0\expndtw0\charscalex83 r,J,\expnd1\expndtw7\charscalex100  \f0\expnd0\expndtw0\charscalex91\cf6 ql\expnd3\expndtw14 J\f1\expnd4\expndtw20 \'F8\expnd0\expndtw1\charscalex105\cf5 h\expnd2\expndtw9\cf6 \'F8\expnd0\expndtw-1\charscalex99 t\expnd-2\expndtw-10 \'EB\expnd0\expndtw0\charscalex105\cf5 n\expnd-1\expndtw-6\charscalex86\cf3 L\expnd0\expndtw0\charscalex109\cf5 U\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\ri1182\qc\sl240\slmult1\sb62\tx1948\f1\fs10\b0\charscalex35 1{\ul\ulc1  \tab }1\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li871\sl240\slmult1\sb58\tx4320\tx5241\f1\fs10\b0\charscalex100{\ul\ulc1  \charscalex100 \tab \charscalex35 1\charscalex100 \tab }\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb3\f1\fs13\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li1681\sl240\slmult1\sb1\sa18\tx4431\tx7609\f1\fs10\b0\up2\charscalex40 1\tab \f0\fs10\b0\i0\up0 1\tab 1\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li503\sl240\slmult1\tx3710\tx6594\f0\fs20\up221
+{\field\fldlock
+{\*\fldinst SHAPE  \\* MERGEFORMAT}
+{\fldrslt 
+{\shpgrp{\*\shpinst\shplid55
+\shpleft0\shptop0\shpright2436\shpbottom3924\shpfhdr0
+\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt1\shpz8
+\shplockanchor
+\shpwr3\shpwrk0\shpfblwtxt1{\sp{\sn groupLeft}{\sv 0}}
+{\sp{\sn groupTop}{\sv 0}}
+{\sp{\sn groupRight}{\sv 2436}}
+{\sp{\sn groupBottom}{\sv 3924}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn fPseudoInline}{\sv 1}}
+{\sp{\sn lidRegroup}{\sv 0}}
+{\sp{\sn posrelh}{\sv 3}}
+{\sp{\sn posrelv}{\sv 3}}
+
+{\shp{\*\shpinst\shplid56
+{\sp{\sn relLeft}{\sv 7}}
+{\sp{\sn relTop}{\sv 2}}
+{\sp{\sn relRight}{\sv 2426}}
+{\sp{\sn relBottom}{\sv 22}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2419}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(2418,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 3051}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid57
+{\sp{\sn relLeft}{\sv 7}}
+{\sp{\sn relTop}{\sv 2}}
+{\sp{\sn relRight}{\sv 27}}
+{\sp{\sn relBottom}{\sv 719}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 20}}
+{\sp{\sn geoBottom}{\sv 717}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,716);(0,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9158}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid58
+{\sp{\sn relLeft}{\sv 2425}}
+{\sp{\sn relTop}{\sv 2}}
+{\sp{\sn relRight}{\sv 2445}}
+{\sp{\sn relBottom}{\sv 719}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 20}}
+{\sp{\sn geoBottom}{\sv 717}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,716);(0,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9158}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid59
+{\sp{\sn relLeft}{\sv 2}}
+{\sp{\sn relTop}{\sv 708}}
+{\sp{\sn relRight}{\sv 2435}}
+{\sp{\sn relBottom}{\sv 728}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2433}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(2432,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9154}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid60
+{\sp{\sn relLeft}{\sv 103}}
+{\sp{\sn relTop}{\sv 704}}
+{\sp{\sn relRight}{\sv 123}}
+{\sp{\sn relBottom}{\sv 3530}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 20}}
+{\sp{\sn geoBottom}{\sv 2826}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,2825);(0,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9158}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid61
+{\sp{\sn relLeft}{\sv 362}}
+{\sp{\sn relTop}{\sv 901}}
+{\sp{\sn relRight}{\sv 2425}}
+{\sp{\sn relBottom}{\sv 921}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2063}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(2062,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9154}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid62
+{\sp{\sn relLeft}{\sv 2425}}
+{\sp{\sn relTop}{\sv 896}}
+{\sp{\sn relRight}{\sv 2445}}
+{\sp{\sn relBottom}{\sv 1444}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 20}}
+{\sp{\sn geoBottom}{\sv 548}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,547);(0,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9158}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid63
+{\sp{\sn relLeft}{\sv 362}}
+{\sp{\sn relTop}{\sv 1434}}
+{\sp{\sn relRight}{\sv 2435}}
+{\sp{\sn relBottom}{\sv 1454}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2073}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(2072,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9154}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid64
+{\sp{\sn relLeft}{\sv 362}}
+{\sp{\sn relTop}{\sv 1549}}
+{\sp{\sn relRight}{\sv 2425}}
+{\sp{\sn relBottom}{\sv 1569}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2063}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(2062,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 3051}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid65
+{\sp{\sn relLeft}{\sv 362}}
+{\sp{\sn relTop}{\sv 1549}}
+{\sp{\sn relRight}{\sv 382}}
+{\sp{\sn relBottom}{\sv 2991}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 20}}
+{\sp{\sn geoBottom}{\sv 1442}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,1441);(0,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 3052}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid66
+{\sp{\sn relLeft}{\sv 2425}}
+{\sp{\sn relTop}{\sv 1549}}
+{\sp{\sn relRight}{\sv 2445}}
+{\sp{\sn relBottom}{\sv 2991}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 20}}
+{\sp{\sn geoBottom}{\sv 1442}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,1441);(0,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9158}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid67
+{\sp{\sn relLeft}{\sv 362}}
+{\sp{\sn relTop}{\sv 2770}}
+{\sp{\sn relRight}{\sv 2435}}
+{\sp{\sn relBottom}{\sv 2790}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2073}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(2072,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 3051}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid68
+{\sp{\sn relLeft}{\sv 362}}
+{\sp{\sn relTop}{\sv 3265}}
+{\sp{\sn relRight}{\sv 2425}}
+{\sp{\sn relBottom}{\sv 3285}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2063}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(2062,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 3051}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid69
+{\sp{\sn relLeft}{\sv 362}}
+{\sp{\sn relTop}{\sv 3265}}
+{\sp{\sn relRight}{\sv 382}}
+{\sp{\sn relBottom}{\sv 3914}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 20}}
+{\sp{\sn geoBottom}{\sv 649}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,648);(0,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 3052}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid70
+{\sp{\sn relLeft}{\sv 2425}}
+{\sp{\sn relTop}{\sv 3265}}
+{\sp{\sn relRight}{\sv 2445}}
+{\sp{\sn relBottom}{\sv 3924}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 20}}
+{\sp{\sn geoBottom}{\sv 659}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,658);(0,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9158}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid71
+{\sp{\sn relLeft}{\sv 362}}
+{\sp{\sn relTop}{\sv 3914}}
+{\sp{\sn relRight}{\sv 2435}}
+{\sp{\sn relBottom}{\sv 3934}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2073}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(2072,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9154}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst{\sp{\sn relLeft}{\sv 52}}
+{\sp{\sn relTop}{\sv 587}}
+{\sp{\sn relRight}{\sv 345}}
+{\sp{\sn relBottom}{\sv 2315}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl-1040\f1\fs93\b0\charscalex53 \'ED\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li51\sl240\slmult1\sb480\f0\fs18\b0 ,\charscalex100{\ul\ulc1  \charscalex100  }\par}}}
+
+{\shp{\*\shpinst{\sp{\sn relLeft}{\sv 100}}
+{\sp{\sn relTop}{\sv 3253}}
+{\sp{\sn relRight}{\sv 222}}
+{\sp{\sn relBottom}{\sv 3597}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl-344\f0\fs31\b0\charscalex98 -\par}}}
+
+{\shp{\*\shpinst{\sp{\sn relLeft}{\sv 14}}
+{\sp{\sn relTop}{\sv 5}}
+{\sp{\sn relRight}{\sv 2418}}
+{\sp{\sn relBottom}{\sv 702}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li962\fi-614\ri228\sl324\slmult1\sb25\f1\fs17\b0\charscalex90\cf5 11\'E3,\cf6 \'F9\cf5 \'DCu \f1\fs17\b0\i0\cf6 L!.f2 tu\'F8t\'EB\'F8\cf5 u f!;t, \f1\fs17\b0\i0\charscalex100 u],on \f1\fs17\b0\i0\cf6 g\par}}}
+
+{\shp{\*\shpinst{\sp{\sn relLeft}{\sv 365}}
+{\sp{\sn relTop}{\sv 1552}}
+{\sp{\sn relRight}{\sv 2418}}
+{\sp{\sn relBottom}{\sv 2768}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb3\f0\fs17\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li124\fi147\ri118\sl348\slmult1\f1\fs17\b0\charscalex90\cf5 -=:nr,J, \f1\fs17\b0\i0\cf6 ql.J\'F8 \f1\fs17\b0\i0\cf5 h\cf6 \'F8t\'EB\cf5 n\cf3 L\cf5 u \f1\fs17\b0\i0\expnd0\expndtw-1\charscalex64 O\expnd0\expndtw0 U\expnd-3\expndtw-13\charscalex100  \expnd0\expndtw-1\charscalex73\cf6 L\expnd0\expndtw0 \'CB\expnd-2\expndtw-10\charscalex100  \expnd1\expndtw5\charscalex98\cf5 \'F0\expnd2\expndtw9\charscalex82 \'DC\expnd0\expndtw-1\charscalex67 \'C3\expnd1\expndtw5 ,\expnd0\expndtw-1\charscalex83 f!\expnd-3\expndtw-15 ;\expnd-3\expndtw-14\charscalex102\cf6 \'D8\expnd0\expndtw-1\charscalex73 L\expnd-1\expndtw-7 \'CB\expnd0\expndtw-1\charscalex63\cf5 L/.\expnd1\expndtw5 \'CF\expnd-1\expndtw-5\charscalex80\cf3 L\expnd0\expndtw-1\charscalex43\cf5 \'C3<!\expnd-1\expndtw-3 -\expnd1\expndtw6\charscalex50\cf3 J\expnd-9\expndtw-44\charscalex102\cf6 \'D8\expnd0\expndtw0\charscalex109\cf5 U\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li49\ri122\qc\sl-167\f1\fs17\b0\charscalex95\cf7 /\expnd-5\expndtw-26  \f1\fs17\b0\i0\expnd0\expndtw0\cf6 \'F8\expnd-5\expndtw-26  \f1\fs17\b0\i0\expnd0\expndtw0\cf5 \'E3,\cf6 l\'CB\'D8\cf5 fl.flnf]_\cf6 \'D8\cf5 \'D6\cf6 \'F8\expnd-5\expndtw-25  \f1\fs17\b0\i0\expnd0\expndtw0\cf5 u\expnd-5\expndtw-26  \f1\fs17\b0\i0\expnd0\expndtw0 n\cf3 L\cf5 -\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li47\ri122\qc\sl240\slmult1\sb69\f1\fs17\b0\expnd0\expndtw-1\charscalex43\cf5 \'C3<!\expnd-2\expndtw-8 -\expnd1\expndtw6\charscalex55\cf3 J\expnd-9\expndtw-44\charscalex102\cf6 \'D8\expnd-1\expndtw-6\charscalex109\cf5 U\expnd0\expndtw0\cf7 /\par}}}
+
+{\shp{\*\shpinst{\sp{\sn relLeft}{\sv 365}}
+{\sp{\sn relTop}{\sv 3268}}
+{\sp{\sn relRight}{\sv 2418}}
+{\sp{\sn relBottom}{\sv 3908}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li46\ri122\qc\sl240\slmult1\sb1\f1\fs17\b0\charscalex95\cf5 -=:nr,J, \f1\fs17\b0\i0\cf6 \'F8 \f1\fs17\b0\i0\cf5 \'E3,d-\'DCf!;\cf6 \'F8 \f1\fs17\b0\i0\cf3 J \f1\fs17\b0\i0\cf5 t,1.J\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li49\ri61\qc\sl240\slmult1\sb64\f0\fs17\b0\cf5 qlJ\f1\cf6 \'F8\cf5 h\cf6 \'F8t\'EB\cf5 n\cf3 L\cf5 U\par}}}
+}}
+{\pict
+{\*\picprop\defshp\shplid55
+{\sp{\sn shapeType}{\sv 75}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn fPseudoInline}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLockPosition}{\sv 1}}
+{\sp{\sn fLockRotation}{\sv 1}}
+}
+\piccropl0\piccropr0\piccropt-3924\piccropb3924\picwgoal2436\pichgoal3924
+\wmetafile8\bliptag-1003278350\blipupi72
+}
+}}
+ \tab \f0\fs20\up147
+{\field\fldlock
+{\*\fldinst SHAPE  \\* MERGEFORMAT}
+{\fldrslt 
+{\shp{\*\shpinst\shpleft0\shpright2065\shptop0\shpbottom3778\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shplockanchor\shpwr3\shpwrk0\shpfblwtxt1\shpz0\shplid97{\sp{\sn fBehindDocument}{\sv 0}}{\sp{\sn fPseudoInline}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 3}}
+{\sp{\sn posrelv}{\sv 3}}
+{\shptxt
+\trowd\irow0\trgaph0\trrh1359\trql
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw15\clbrdrl\brdrs\brdrcf1\brdrw15\clbrdrr\brdrs\brdrcf1\brdrw15\clbrdrb\brdrdb\brdrcf8\brdrw2\cltxlrtb\cellx2043
+{\pard\plain\intbl\s4\nooverflow\nocwrap\lnbrkrule\li132\fi13\ri112\qc\sl312\slmult1\sb97\f1\fs17\b0\cf5 ll \'E3,\cf6 \'F9\cf5 bu \f1\fs17\b0\i0\cf6 \'F8u\cf5 2\cf6 \'F8 \f1\fs17\b0\i0\cf5 \'E3,\cf4 d- \f1\fs17\b0\i0\expnd0\expndtw-1\charscalex76\cf6 [1\expnd1\expndtw7 \'CB\charscalex84\cf3 \'D6\expnd0\expndtw-1\charscalex75\cf5 f"\expnd0\expndtw-2 ;\expnd0\expndtw-1\charscalex98 t\expnd0\expndtw0 ,\expnd-2\expndtw-8\charscalex100  \fs18\expnd0\expndtw-1\charscalex78 U\expnd0\expndtw0 .\expnd-5\expndtw-23\charscalex100  \fs17\expnd0\expndtw-1\charscalex93 2\expnd-2\expndtw-8 \'CF\expnd-1\expndtw-5\charscalex80\cf3 L\expnd2\expndtw11\charscalex75\cf5 \'D6\expnd-4\expndtw-21\charscalex102\cf6 \'D8\expnd1\expndtw6\charscalex50\cf3 J\expnd-3\expndtw-15\charscalex102\cf6 \'D8\expnd2\expndtw12\charscalex70\cf5 \'D6\expnd-9\expndtw-44\charscalex102\cf6 \'D8\expnd0\expndtw0\charscalex109\cf5 U\par\pard\plain\intbl\s4\nooverflow\nocwrap\lnbrkrule\li195\ri190\qc\sl-214\f1\fs17\b0\expnd1\expndtw4\charscalex93\cf5 2\expnd0\expndtw-1\charscalex52 \'C3\expnd2\expndtw10 1\fs21\expnd2\expndtw10\charscalex73 \'EE\fs17\expnd0\expndtw-1\charscalex105\cf6 \'F8\expnd0\expndtw2 u\expnd0\expndtw1 \'F8\expnd0\expndtw-1\charscalex77\cf5 n.\expnd0\expndtw0 n\expnd-5\expndtw-24\charscalex100  \expnd-1\expndtw-5\charscalex80\cf3 L\expnd0\expndtw-1\charscalex43\cf5 \'C3<!\expnd-2\expndtw-8 -\expnd2\expndtw8\charscalex55\cf3 J\expnd0\expndtw-1\charscalex105\cf6 \'F8u\par\pard\plain\intbl\s4\nooverflow\nocwrap\lnbrkrule\li195\ri164\qc\sl240\slmult1\sb56\f1\fs17\b0\cf5 \'EE\'F0\cf3 J\cf5 \'DC\'F6 \f1\fs17\b0\i0\cf6 t\'EB\par\pard\plain\intbl\s4\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb3\f0\fs18\b0\i0\par\pard\plain\intbl\s4\nooverflow\nocwrap\lnbrkrule\li333\sl-43\f0\fs6\b0\charscalex80\cf9 -\cell}\row
+\trowd\irow1\trgaph0\trrh1325\trql
+\clvertalt\clbrdrt\brdrdb\brdrcf8\brdrw2\clbrdrl\brdrs\brdrcf1\brdrw15\clbrdrr\brdrs\brdrcf1\brdrw15\clbrdrb\brdrs\brdrcf1\brdrw5\cltxlrtb\cellx2043
+{\pard\plain\intbl\s4\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb6\f0\fs18\b0\i0\par\pard\plain\intbl\s4\nooverflow\nocwrap\lnbrkrule\li816\sl240\slmult1\f1\fs17\b0\charscalex50\cf5 -=\expnd1\expndtw7 :\expnd0\expndtw-1\charscalex105 n\fs21\expnd0\expndtw0\charscalex87 rui\par\pard\plain\intbl\s4\nooverflow\nocwrap\lnbrkrule\li476\fi-163\ri271\sl319\slmult1\sb51\f1\fs17\b0\expnd-1\expndtw-4\charscalex95\cf6 t\'EB\cf5 b \f1\fs17\b0\i0\expnd-3\expndtw-14\cf6 tu\cf5 u \f1\fs17\b0\i0\expnd-1\expndtw-7 n\cf3 L\cf5 \'CF\'D9l\cf6 \'D8\cf5 \'D6\cf6 \'D8\cf5 U \f1\fs17\b0\i0\expnd-2\expndtw-12\charscalex100\cf6 \'D9\'D8\cf5 JU\cf6 \'F8u\cf5 u \f1\fs17\b0\i0\expnd0\expndtw0 b\'E3,t, \f0\fs17\b0\i0 qlJ\f1\cf6 \'F8\cf5 h\cf6 \'F8t\'EB\cf5 n\cf3 L\cf5 U\cell}\row
+\trowd\irow2\trgaph0\trrh124\trql
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw5\clbrdrl\brdrs\brdrcf1\brdrw5\clbrdrr\brdrs\brdrcf1\brdrw5\clbrdrb\brdrs\brdrcf1\brdrw5\cltxlrtb\cellx2043
+{\pard\plain\intbl\s4\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs6\cell}\row
+\trowd\irow3\trgaph0\trrh922\trql
+\clvertalt\clbrdrt\brdrs\brdrcf1\brdrw5\clbrdrl\brdrs\brdrcf1\brdrw15\clbrdrr\brdrs\brdrcf1\brdrw15\clbrdrb\brdrs\brdrcf1\brdrw5\cltxlrtb\cellx2043
+{\pard\plain\intbl\s4\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb2\f0\fs17\b0\i0\par\pard\plain\intbl\s4\nooverflow\nocwrap\lnbrkrule\li195\ri187\qc\sl240\slmult1\sb1\f1\fs17\b0\charscalex95\cf5 -=:nri_b\'E3,t,\par\pard\plain\intbl\s4\nooverflow\nocwrap\lnbrkrule\li195\ri255\qc\sl240\slmult1\sb83\f1\fs17\b0\expnd0\expndtw-1\charscalex73\cf6 L\expnd0\expndtw-2 \'CB\expnd0\expndtw0\charscalex63\cf5 Q\expnd-5\expndtw-24\charscalex100  \expnd0\expndtw-1\charscalex54 f]\expnd-3\expndtw-14 _\expnd-1\expndtw-4\charscalex102\cf6 \'D8\expnd0\expndtw-1\charscalex85\cf5 fl.f\expnd1\expndtw6 l\expnd0\expndtw-1\charscalex47 L/\expnd-2\expndtw-10 _\expnd0\expndtw0\cf6 \'F8\charscalex100  \expnd-3\expndtw-17  \expnd0\expndtw-1\charscalex62\cf5 \'DC\expnd1\expndtw3 -\expnd0\expndtw0\charscalex105 n\expnd-1\expndtw-5\charscalex80\cf3 L\expnd0\expndtw-1\charscalex43\cf5 \'C3<!\expnd-2\expndtw-8 -\expnd2\expndtw8\charscalex55\cf3 J\expnd0\expndtw0\cf6 \'F8\expnd-1\expndtw-7\charscalex100  \expnd0\expndtw0\charscalex55\cf5 u\par\pard\plain\intbl\s4\nooverflow\nocwrap\lnbrkrule\li195\ri128\qc\sl-171\sb59\f0\fs17\b0\cf5 qlJ\f1\cf6 \'F8\cf5 h\cf6 \'F8t\'EB\cf5 n\cf3 L\cf5 U\cell}\row\pard\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\par}}}
+{\pict
+{\*\picprop\defshp\shplid97
+{\sp{\sn shapeType}{\sv 75}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn fPseudoInline}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLockPosition}{\sv 1}}
+{\sp{\sn fLockRotation}{\sv 1}}
+}
+\piccropl0\piccropr0\piccropt-3778\piccropb3778\picwgoal2065\pichgoal3778
+\wmetafile8\bliptag-1003278350\blipupi72
+}
+}}
+ \tab \f0\fs20\up0
+{\field\fldlock
+{\*\fldinst SHAPE  \\* MERGEFORMAT}
+{\fldrslt 
+{\shpgrp{\*\shpinst\shplid123
+\shpleft0\shptop0\shpright2541\shpbottom6142\shpfhdr0
+\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt1\shpz20
+\shplockanchor
+\shpwr3\shpwrk0\shpfblwtxt1{\sp{\sn groupLeft}{\sv 0}}
+{\sp{\sn groupTop}{\sv 0}}
+{\sp{\sn groupRight}{\sv 2541}}
+{\sp{\sn groupBottom}{\sv 6142}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn fPseudoInline}{\sv 1}}
+{\sp{\sn lidRegroup}{\sv 0}}
+{\sp{\sn posrelh}{\sv 3}}
+{\sp{\sn posrelv}{\sv 3}}
+
+{\shp{\*\shpinst\shplid124
+{\sp{\sn relLeft}{\sv 7}}
+{\sp{\sn relTop}{\sv 7}}
+{\sp{\sn relRight}{\sv 113}}
+{\sp{\sn relBottom}{\sv 27}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 106}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(105,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9154}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid125
+{\sp{\sn relLeft}{\sv 112}}
+{\sp{\sn relTop}{\sv 7}}
+{\sp{\sn relRight}{\sv 2531}}
+{\sp{\sn relBottom}{\sv 27}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2419}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(2418,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 3051}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid126
+{\sp{\sn relLeft}{\sv 7}}
+{\sp{\sn relTop}{\sv 7}}
+{\sp{\sn relRight}{\sv 27}}
+{\sp{\sn relBottom}{\sv 714}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 20}}
+{\sp{\sn geoBottom}{\sv 707}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,706);(0,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9158}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid127
+{\sp{\sn relLeft}{\sv 2531}}
+{\sp{\sn relTop}{\sv 2}}
+{\sp{\sn relRight}{\sv 2551}}
+{\sp{\sn relBottom}{\sv 719}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 20}}
+{\sp{\sn geoBottom}{\sv 717}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,716);(0,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9158}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid128
+{\sp{\sn relLeft}{\sv 2}}
+{\sp{\sn relTop}{\sv 713}}
+{\sp{\sn relRight}{\sv 2541}}
+{\sp{\sn relBottom}{\sv 733}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2539}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(2538,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 3051}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid129
+{\sp{\sn relLeft}{\sv 112}}
+{\sp{\sn relTop}{\sv 713}}
+{\sp{\sn relRight}{\sv 132}}
+{\sp{\sn relBottom}{\sv 5812}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 20}}
+{\sp{\sn geoBottom}{\sv 5099}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,5098);(0,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9158}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid130
+{\sp{\sn relLeft}{\sv 435}}
+{\sp{\sn relTop}{\sv 905}}
+{\sp{\sn relRight}{\sv 2532}}
+{\sp{\sn relBottom}{\sv 925}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2097}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(2096,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9154}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid131
+{\sp{\sn relLeft}{\sv 435}}
+{\sp{\sn relTop}{\sv 905}}
+{\sp{\sn relRight}{\sv 455}}
+{\sp{\sn relBottom}{\sv 1554}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 20}}
+{\sp{\sn geoBottom}{\sv 649}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,648);(0,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 3052}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid132
+{\sp{\sn relLeft}{\sv 2531}}
+{\sp{\sn relTop}{\sv 901}}
+{\sp{\sn relRight}{\sv 2551}}
+{\sp{\sn relBottom}{\sv 1565}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 20}}
+{\sp{\sn geoBottom}{\sv 664}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,663);(0,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9158}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid133
+{\sp{\sn relLeft}{\sv 435}}
+{\sp{\sn relTop}{\sv 1554}}
+{\sp{\sn relRight}{\sv 2541}}
+{\sp{\sn relBottom}{\sv 1574}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2106}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(2105,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9154}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid134
+{\sp{\sn relLeft}{\sv 435}}
+{\sp{\sn relTop}{\sv 1751}}
+{\sp{\sn relRight}{\sv 2532}}
+{\sp{\sn relBottom}{\sv 1771}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2097}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(2096,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9154}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid135
+{\sp{\sn relLeft}{\sv 435}}
+{\sp{\sn relTop}{\sv 1751}}
+{\sp{\sn relRight}{\sv 455}}
+{\sp{\sn relBottom}{\sv 2573}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 20}}
+{\sp{\sn geoBottom}{\sv 822}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,821);(0,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 3052}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid136
+{\sp{\sn relLeft}{\sv 2531}}
+{\sp{\sn relTop}{\sv 1746}}
+{\sp{\sn relRight}{\sv 2551}}
+{\sp{\sn relBottom}{\sv 2583}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 20}}
+{\sp{\sn geoBottom}{\sv 837}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,836);(0,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9158}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid137
+{\sp{\sn relLeft}{\sv 435}}
+{\sp{\sn relTop}{\sv 2573}}
+{\sp{\sn relRight}{\sv 2541}}
+{\sp{\sn relBottom}{\sv 2593}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2106}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(2105,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9154}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid138
+{\sp{\sn relLeft}{\sv 435}}
+{\sp{\sn relTop}{\sv 2775}}
+{\sp{\sn relRight}{\sv 2532}}
+{\sp{\sn relBottom}{\sv 2795}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2097}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(2096,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 3051}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid139
+{\sp{\sn relLeft}{\sv 2531}}
+{\sp{\sn relTop}{\sv 2996}}
+{\sp{\sn relRight}{\sv 2551}}
+{\sp{\sn relBottom}{\sv 3540}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 20}}
+{\sp{\sn geoBottom}{\sv 544}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,543);(0,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9158}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid140
+{\sp{\sn relLeft}{\sv 435}}
+{\sp{\sn relTop}{\sv 3534}}
+{\sp{\sn relRight}{\sv 2541}}
+{\sp{\sn relBottom}{\sv 3554}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2106}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(2105,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 3051}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid141
+{\sp{\sn relLeft}{\sv 435}}
+{\sp{\sn relTop}{\sv 3616}}
+{\sp{\sn relRight}{\sv 2532}}
+{\sp{\sn relBottom}{\sv 3636}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2097}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(2096,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9154}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid142
+{\sp{\sn relLeft}{\sv 435}}
+{\sp{\sn relTop}{\sv 3616}}
+{\sp{\sn relRight}{\sv 455}}
+{\sp{\sn relBottom}{\sv 4506}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 20}}
+{\sp{\sn geoBottom}{\sv 890}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,889);(0,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 3052}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid143
+{\sp{\sn relLeft}{\sv 2531}}
+{\sp{\sn relTop}{\sv 3611}}
+{\sp{\sn relRight}{\sv 2551}}
+{\sp{\sn relBottom}{\sv 4515}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 20}}
+{\sp{\sn geoBottom}{\sv 904}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,903);(0,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9158}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid144
+{\sp{\sn relLeft}{\sv 435}}
+{\sp{\sn relTop}{\sv 4505}}
+{\sp{\sn relRight}{\sv 2541}}
+{\sp{\sn relBottom}{\sv 4525}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2106}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(2105,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9154}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid145
+{\sp{\sn relLeft}{\sv 435}}
+{\sp{\sn relTop}{\sv 4673}}
+{\sp{\sn relRight}{\sv 2532}}
+{\sp{\sn relBottom}{\sv 4693}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2097}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(2096,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9154}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid146
+{\sp{\sn relLeft}{\sv 435}}
+{\sp{\sn relTop}{\sv 4673}}
+{\sp{\sn relRight}{\sv 455}}
+{\sp{\sn relBottom}{\sv 5322}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 20}}
+{\sp{\sn geoBottom}{\sv 649}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,648);(0,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 3052}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid147
+{\sp{\sn relLeft}{\sv 2531}}
+{\sp{\sn relTop}{\sv 4668}}
+{\sp{\sn relRight}{\sv 2551}}
+{\sp{\sn relBottom}{\sv 5332}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 20}}
+{\sp{\sn geoBottom}{\sv 664}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,663);(0,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9158}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid148
+{\sp{\sn relLeft}{\sv 435}}
+{\sp{\sn relTop}{\sv 5322}}
+{\sp{\sn relRight}{\sv 2541}}
+{\sp{\sn relBottom}{\sv 5342}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2106}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(2105,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9154}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst{\sp{\sn relLeft}{\sv 102}}
+{\sp{\sn relTop}{\sv 1868}}
+{\sp{\sn relRight}{\sv 304}}
+{\sp{\sn relBottom}{\sv 2423}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl-554\f0\fs50\b0\charscalex109 -\par}}}
+
+{\shp{\*\shpinst{\sp{\sn relLeft}{\sv 58}}
+{\sp{\sn relTop}{\sv 2574}}
+{\sp{\sn relRight}{\sv 384}}
+{\sp{\sn relBottom}{\sv 4288}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl-1085\f1\fs97\b0\charscalex57\cf2 \'ED\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li43\sl240\slmult1\sb53\f0\fs50\b0\charscalex77 -\par}}}
+
+{\shp{\*\shpinst{\sp{\sn relLeft}{\sv 708}}
+{\sp{\sn relTop}{\sv 2986}}
+{\sp{\sn relRight}{\sv 2185}}
+{\sp{\sn relBottom}{\sv 3177}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl-190\f1\fs17\b0\charscalex85\cf5 r\expnd0\expndtw-2  \f1\fs17\b0\i0\expnd0\expndtw2 u\cf6 t\'EB\expnd-3\expndtw-13  \f1\fs17\b0\i0\expnd0\expndtw0\cf5 t,1.Jf!;u\cf6 \'F8\expnd-4\expndtw-20  \f1\fs17\b0\i0\expnd0\expndtw0\cf5 \'E3,d-\'DCf!;t,\par}}}
+
+{\shp{\*\shpinst{\sp{\sn relLeft}{\sv 120}}
+{\sp{\sn relTop}{\sv 4900}}
+{\sp{\sn relRight}{\sv 228}}
+{\sp{\sn relBottom}{\sv 4989}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl-89\f0\fs8\b0\charscalex110 f--\par}}}
+
+{\shp{\*\shpinst{\sp{\sn relLeft}{\sv 97}}
+{\sp{\sn relTop}{\sv 5447}}
+{\sp{\sn relRight}{\sv 343}}
+{\sp{\sn relBottom}{\sv 6135}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl-687\f0\fs62\b0\charscalex109 -\par}}}
+
+{\shp{\*\shpinst{\sp{\sn relLeft}{\sv 14}}
+{\sp{\sn relTop}{\sv 14}}
+{\sp{\sn relRight}{\sv 2524}}
+{\sp{\sn relBottom}{\sv 711}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li540\sl240\slmult1\sb121\f1\fs17\b0\cf5 -=Jnr,J, ql.Jt, n\'E3,n2n \f1\fs17\b0\i0\cf3 L\cf5 u\par}}}
+
+{\shp{\*\shpinst{\sp{\sn relLeft}{\sv 435}}
+{\sp{\sn relTop}{\sv 5558}}
+{\sp{\sn relRight}{\sv 2532}}
+{\sp{\sn relBottom}{\sv 6140}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineColor}{\sv 0}}{\sp{\sn lineWidth}{\sv 3052}}{\sp{\sn lineStyle}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li659\fi-390\sl324\slmult1\sb54\f1\fs17\b0\cf5 r u\cf6 t\'EB \f1\fs17\b0\i0\cf5 ri.t, b\'E3,bu \f1\fs17\b0\i0\cf6 g\cf5 t,\cf6 \'D8\cf3 L \f1\fs17\b0\i0\cf5 n.bU\cf6 L\'CB\'D8\cf5 J t,\par}}}
+
+{\shp{\*\shpinst{\sp{\sn relLeft}{\sv 438}}
+{\sp{\sn relTop}{\sv 4681}}
+{\sp{\sn relRight}{\sv 2525}}
+{\sp{\sn relBottom}{\sv 5316}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li500\fi-87\ri263\sl319\slmult1\sb97\f1\fs17\b0\cf5 r u\cf6 t\'EB \f1\fs17\b0\i0\cf5 \'DC-\cf6 \'F8 tu\cf5 ub\'E3,t, h\cf6 \'F8t\'EB\cf5 n\cf3 L\cf5 gu\cf6 \'F8u\par}}}
+
+{\shp{\*\shpinst{\sp{\sn relLeft}{\sv 438}}
+{\sp{\sn relTop}{\sv 3623}}
+{\sp{\sn relRight}{\sv 2525}}
+{\sp{\sn relBottom}{\sv 4498}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li181\fi651\ri263\sl324\slmult1\sb102\f1\fs17\b0\cf5 r \f1\fs17\b0\i0\expnd0\expndtw2 u\cf6 t\'EB \f1\fs17\b0\i0\expnd-3\expndtw-15\charscalex102 \'D8\expnd0\expndtw-1\charscalex67\cf5 \'C3\expnd2\expndtw8 ,\expnd0\expndtw-1\charscalex73\cf6 L\expnd-2\expndtw-8 \'CB\expnd-1\expndtw-4\charscalex102 \'D8\expnd0\expndtw-1\charscalex85\cf5 fl.fl\expnd3\expndtw14 \'CF\expnd0\expndtw-1\charscalex54 f]\expnd-3\expndtw-14 _\expnd-3\expndtw-15\charscalex102\cf6 \'D8\expnd2\expndtw12\charscalex70\cf5 \'D6\expnd-9\expndtw-44\charscalex102\cf6 \'D8\expnd-1\expndtw-5\charscalex109\cf5 U\expnd1\expndtw6\charscalex78 \'CF\expnd-2\expndtw-11\charscalex80\cf3 L\expnd0\expndtw0\cf5 -\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li74\ri133\qc\sl240\slmult1\sb11\f1\fs17\b0\expnd0\expndtw-1\charscalex43\cf5 \'C3<!\expnd-2\expndtw-8 -\expnd1\expndtw6\charscalex55\cf3 J\expnd-9\expndtw-44\charscalex102\cf6 \'D8\expnd0\expndtw0\charscalex109\cf5 U\par}}}
+
+{\shp{\*\shpinst{\sp{\sn relLeft}{\sv 438}}
+{\sp{\sn relTop}{\sv 1759}}
+{\sp{\sn relRight}{\sv 2525}}
+{\sp{\sn relBottom}{\sv 2567}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li74\ri136\qc\sl-264\sb50\f1\fs17\b0\charscalex85\cf5 -=:nr,J, \f1\fs17\b0\i0\cf6 ql.J\'F8 \f1\fs17\b0\i0\cf5 h\cf6 \'F8t\'EB\cf5 n\cf3 L\cf5 u \f1\fs26\b0\i0 \uc1\u9633 ?\fs17 u\cf6 L\'CB \f1\fs17\b0\i0\charscalex95\cf5 \'DC-\cf6 \'F8 tu\cf5 ub\'E3,t, \f1\fs17\b0\i0\charscalex102\cf6 \'D8\charscalex67\cf5 \'C3,\charscalex62 \'C3lJ\charscalex78 \'CF\charscalex80\cf3 L\charscalex109\cf5 U\charscalex102\cf6 \'D8\charscalex47\cf5 L/_\charscalex87 \'DC\charscalex73\cf6 L\'CB\charscalex78\cf5 \'CF\charscalex80\cf3 L\charscalex43\cf5 \'C3<!-\charscalex55\cf3 J\charscalex102\cf6 \'D8\charscalex109\cf5 U\par}}}
+
+{\shp{\*\shpinst{\sp{\sn relLeft}{\sv 438}}
+{\sp{\sn relTop}{\sv 913}}
+{\sp{\sn relRight}{\sv 2525}}
+{\sp{\sn relBottom}{\sv 1548}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 1}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs18\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li53\sl240\slmult1\sb159\f1\fs17\b0\cf6 \'F8\cf5 \'E3,\cf6 t\'EB\'F8\cf5 fl.fln\cf3 L\cf5 r.i-\cf3 J\cf6 \'F8 \f1\fs17\b0\i0\cf5 u u],ong\par}}}
+}}
+{\pict
+{\*\picprop\defshp\shplid123
+{\sp{\sn shapeType}{\sv 75}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn fPseudoInline}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLockPosition}{\sv 1}}
+{\sp{\sn fLockRotation}{\sv 1}}
+}
+\piccropl0\piccropr0\piccropt-6142\piccropb6142\picwgoal2541\pichgoal6142
+\wmetafile8\bliptag-1003278350\blipupi72
+}
+}}
+\par
+{\shpgrp{\*\shpinst\shplid206
+\shpleft4983\shptop-6165\shpright7351\shpbottom1473\shpfhdr0
+\shpbxpage\shpbypara\shpwr3\shpwrk0\shpfblwtxt1\shpz29
+\shpwr3\shpfblwtxt1{\sp{\sn groupLeft}{\sv 4983}}
+{\sp{\sn groupTop}{\sv -6165}}
+{\sp{\sn groupRight}{\sv 7351}}
+{\sp{\sn groupBottom}{\sv 1473}}
+{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+
+{\shp{\*\shpinst\shplid207
+{\sp{\sn relLeft}{\sv 4990}}
+{\sp{\sn relTop}{\sv -6158}}
+{\sp{\sn relRight}{\sv 5106}}
+{\sp{\sn relBottom}{\sv -6138}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 116}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(115,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9154}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid208
+{\sp{\sn relLeft}{\sv 5105}}
+{\sp{\sn relTop}{\sv -6158}}
+{\sp{\sn relRight}{\sv 7341}}
+{\sp{\sn relBottom}{\sv -6138}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2236}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(2235,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 3051}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid209
+{\sp{\sn relLeft}{\sv 4990}}
+{\sp{\sn relTop}{\sv -6158}}
+{\sp{\sn relRight}{\sv 5010}}
+{\sp{\sn relBottom}{\sv -5451}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 20}}
+{\sp{\sn geoBottom}{\sv 707}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,706);(0,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9158}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shpgrp{\*\shpinst\shplid210
+{\sp{\sn groupLeft}{\sv 4977}}
+{\sp{\sn groupTop}{\sv -1912}}
+{\sp{\sn groupRight}{\sv 7334}}
+{\sp{\sn groupBottom}{\sv -1201}}
+{\sp{\sn relLeft}{\sv 4977}}
+{\sp{\sn relTop}{\sv -1912}}
+{\sp{\sn relRight}{\sv 7334}}
+{\sp{\sn relBottom}{\sv -1201}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+
+{\shp{\*\shpinst\shplid210
+{\sp{\sn relLeft}{\sv 4977}}
+{\sp{\sn relTop}{\sv -1912}}
+{\sp{\sn relRight}{\sv 7334}}
+{\sp{\sn relBottom}{\sv -1201}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2357}}
+{\sp{\sn geoBottom}{\sv 711}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(2363,-3534);(2363,-4246)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 3052}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid210
+{\sp{\sn relLeft}{\sv 4977}}
+{\sp{\sn relTop}{\sv -1912}}
+{\sp{\sn relRight}{\sv 7334}}
+{\sp{\sn relBottom}{\sv -1201}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2357}}
+{\sp{\sn geoBottom}{\sv 711}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(8,-3539);(2368,-3539)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 3052}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+
+{\shp{\*\shpinst\shplid211
+{\sp{\sn relLeft}{\sv 5105}}
+{\sp{\sn relTop}{\sv -5451}}
+{\sp{\sn relRight}{\sv 5125}}
+{\sp{\sn relBottom}{\sv 805}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 20}}
+{\sp{\sn geoBottom}{\sv 6256}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,6256);(0,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9158}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid212
+{\sp{\sn relLeft}{\sv 5298}}
+{\sp{\sn relTop}{\sv -1141}}
+{\sp{\sn relRight}{\sv 7342}}
+{\sp{\sn relBottom}{\sv -1121}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2044}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(2043,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 3051}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shpgrp{\*\shpinst\shplid213
+{\sp{\sn groupLeft}{\sv 5284}}
+{\sp{\sn groupTop}{\sv -8814}}
+{\sp{\sn groupRight}{\sv 7339}}
+{\sp{\sn groupBottom}{\sv -6212}}
+{\sp{\sn relLeft}{\sv 5284}}
+{\sp{\sn relTop}{\sv -8814}}
+{\sp{\sn relRight}{\sv 7339}}
+{\sp{\sn relBottom}{\sv -6212}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+
+{\shp{\*\shpinst\shplid213
+{\sp{\sn relLeft}{\sv 5284}}
+{\sp{\sn relTop}{\sv -8814}}
+{\sp{\sn relRight}{\sv 7339}}
+{\sp{\sn relBottom}{\sv -6212}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2055}}
+{\sp{\sn geoBottom}{\sv 2602}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(13,8788);(13,7673)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9156}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid213
+{\sp{\sn relLeft}{\sv 5284}}
+{\sp{\sn relTop}{\sv -8814}}
+{\sp{\sn relRight}{\sv 7339}}
+{\sp{\sn relBottom}{\sv -6212}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2055}}
+{\sp{\sn geoBottom}{\sv 2602}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(2056,8797);(2056,7673)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9156}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid213
+{\sp{\sn relLeft}{\sv 5284}}
+{\sp{\sn relTop}{\sv -8814}}
+{\sp{\sn relRight}{\sv 7339}}
+{\sp{\sn relBottom}{\sv -6212}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2055}}
+{\sp{\sn geoBottom}{\sv 2602}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(8,8788);(2066,8788)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9156}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid213
+{\sp{\sn relLeft}{\sv 5284}}
+{\sp{\sn relTop}{\sv -8814}}
+{\sp{\sn relRight}{\sv 7339}}
+{\sp{\sn relBottom}{\sv -6212}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2055}}
+{\sp{\sn geoBottom}{\sv 2602}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(13,9062);(2056,9062)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9156}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid213
+{\sp{\sn relLeft}{\sv 5284}}
+{\sp{\sn relTop}{\sv -8814}}
+{\sp{\sn relRight}{\sv 7339}}
+{\sp{\sn relBottom}{\sv -6212}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2055}}
+{\sp{\sn geoBottom}{\sv 2602}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(13,10277);(13,9062)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9156}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+
+{\shpgrp{\*\shpinst\shplid214
+{\sp{\sn groupLeft}{\sv 5097}}
+{\sp{\sn groupTop}{\sv -8824}}
+{\sp{\sn groupRight}{\sv 7329}}
+{\sp{\sn groupBottom}{\sv -7595}}
+{\sp{\sn relLeft}{\sv 5097}}
+{\sp{\sn relTop}{\sv -8824}}
+{\sp{\sn relRight}{\sv 7329}}
+{\sp{\sn relBottom}{\sv -7595}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+
+{\shp{\*\shpinst\shplid214
+{\sp{\sn relLeft}{\sv 5097}}
+{\sp{\sn relTop}{\sv -8824}}
+{\sp{\sn relRight}{\sv 7329}}
+{\sp{\sn relBottom}{\sv -7595}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2232}}
+{\sp{\sn geoBottom}{\sv 1229}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(2243,10297);(2243,9066)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 3052}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst\shplid214
+{\sp{\sn relLeft}{\sv 5097}}
+{\sp{\sn relTop}{\sv -8824}}
+{\sp{\sn relRight}{\sv 7329}}
+{\sp{\sn relBottom}{\sv -7595}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2232}}
+{\sp{\sn geoBottom}{\sv 1229}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(8,9725);(8,9629)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 3052}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+}}
+
+{\shp{\*\shpinst\shplid215
+{\sp{\sn relLeft}{\sv 5293}}
+{\sp{\sn relTop}{\sv 1463}}
+{\sp{\sn relRight}{\sv 7346}}
+{\sp{\sn relBottom}{\sv 1483}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2053}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(2052,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 9154}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst{\sp{\sn relLeft}{\sv 5118}}
+{\sp{\sn relTop}{\sv -4685}}
+{\sp{\sn relRight}{\sv 5202}}
+{\sp{\sn relBottom}{\sv -4485}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl-200\f0\fs18\b0\charscalex105 -\par}}}
+
+{\shp{\*\shpinst{\sp{\sn relLeft}{\sv 5118}}
+{\sp{\sn relTop}{\sv -3339}}
+{\sp{\sn relRight}{\sv 5191}}
+{\sp{\sn relBottom}{\sv -3139}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl-200\f0\fs18\b0\charscalex87 -\par}}}
+
+{\shp{\*\shpinst{\sp{\sn relLeft}{\sv 5118}}
+{\sp{\sn relTop}{\sv -1912}}
+{\sp{\sn relRight}{\sv 5187}}
+{\sp{\sn relBottom}{\sv -1712}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl-200\f0\fs18\b0\charscalex80 -\par}}}
+
+{\shp{\*\shpinst{\sp{\sn relLeft}{\sv 5118}}
+{\sp{\sn relTop}{\sv -610}}
+{\sp{\sn relRight}{\sv 5197}}
+{\sp{\sn relBottom}{\sv -410}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl-200\f0\fs18\b0\charscalex98 -\par}}}
+
+{\shp{\*\shpinst{\sp{\sn relLeft}{\sv 5118}}
+{\sp{\sn relTop}{\sv 731}}
+{\sp{\sn relRight}{\sv 5197}}
+{\sp{\sn relBottom}{\sv 931}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl-200\f0\fs18\b0\charscalex98 -\par}}}
+
+{\shp{\*\shpinst{\sp{\sn relLeft}{\sv 4998}}
+{\sp{\sn relTop}{\sv -6151}}
+{\sp{\sn relRight}{\sv 7340}}
+{\sp{\sn relBottom}{\sv -5454}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li822\fi-490\ri211\sl312\slmult1\sb69\f1\fs17\b0\charscalex90\cf5 ll \'E3,\cf6 \'F9\cf5 bu \f1\fs17\b0\i0\expnd0\expndtw0\cf6 L!.f2 \f1\fs17\b0\i0\expnd-1\expndtw-3 tu\'F8t\'EB\'F8\cf5 1.Jf";t, \f1\fs17\b0\i0\expnd0\expndtw0\charscalex95\cf6 \'F8\cf5 n.\cf6 \'F8 \f1\fs17\b0\i0\expnd0\expndtw2\cf5 \'E3,\'F6\cf6 \'F8\par}}}
+
+{\shp{\*\shpinst{\sp{\sn relLeft}{\sv 5305}}
+{\sp{\sn relTop}{\sv 255}}
+{\sp{\sn relRight}{\sv 7339}}
+{\sp{\sn relBottom}{\sv 1457}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li187\fi103\ri69\sl324\slmult1\sb93\f1\fs17\b0\charscalex90\cf5 -=:nr,J, ql.J\cf6 \'F8 \f1\fs17\b0\i0\cf5 h \f1\fs17\b0\i0\cf6 \'F8 t\'EB\cf5 n\cf3 L\cf5 u QU \f1\fs17\b0\i0\cf6 L\'CB \f1\fs17\b0\i0\cf5 u 2\cf6 \'F8\cf5 \'F6\cf6 \'F8 \f1\fs17\b0\i0\cf5 \'F0n \f1\fs17\b0\i0\cf3 \'F6\cf5 u\'DC\'E3,t,\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li470\fi-129\ri311\sl331\slmult1\sb15\f1\fs17\b0\charscalex80\cf5 \'F6_\'E3,\cf6 \'F8 \f1\fs17\b0\i0\cf5 \'F6\cf6 \'F8 t\'EB\'F8\cf5 \'E3,\'F6_\cf6 \'F8 \f1\fs17\b0\i0\cf5 \'DC- \f1\fs17\b0\i0\charscalex90\cf6 L!.f2 tu\'F8t\'EB\'F8u\cf5 f!;t,\par}}}
+
+{\shp{\*\shpinst{\sp{\sn relLeft}{\sv 5305}}
+{\sp{\sn relTop}{\sv -1139}}
+{\sp{\sn relRight}{\sv 7334}}
+{\sp{\sn relBottom}{\sv -33}}
+{\sp{\sn fRelFlipH}{\sv 0}}
+{\sp{\sn fRelFlipV}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li281\fi-27\ri295\qc\sl326\slmult1\sb16\f1\fs17\b0\charscalex90\cf5 \'DC\'E3,\'F6\'E3,\cf6 \'F8 \f1\fs17\b0\i0\cf5 q\'EB\'E3,\'DC-\cf6 \'F8 \f1\fs17\b0\i0\cf5 \'F6\cf6 \'F8\cf5 u \f4\fs15\b0\i1\charscalex95\cf6 Ul2 \f1\fs17\b0\i0 tu\'F8t\'EB\'F8u\cf5 f!;u\'DC\'E3,t, \f1\fs17\b0\i0\charscalex105 h\cf6 \'F8\charscalex91\cf5 \'E3,u\charscalex100  \charscalex91\cf6 \'F8\charscalex100  \charscalex91\cf5 \'E3,\'CF\charscalex80\cf3 L\charscalex43\cf5 \'C3<!-\charscalex55\cf3 J\charscalex102\cf6 \'D8\charscalex109\cf5 U \f0\charscalex100 qlJ\f1\cf6 \'F8\cf5 h\cf6 \'F8t\'EB\cf5 n\cf3 L\cf5 U\par}}}
+}}
+
+{\shp{\*\shpinst
+\shpleft8863\shptop-2\shpright8979\shpbottom78
+\shpfhdr0\shpwr3\shpwrk0\shplid249\shpz30
+\shpbxpage\shpbypara\shpwr3\shpfblwtxt1{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 116}}
+{\sp{\sn geoBottom}{\sv 80}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;5;(0,0);(115,0);(115,80);(0,80);(0,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;12;16384;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 13621460}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+{\sp{\sn fBehindDocument}{\sv 1}}
+}}
+
+{\shp{\*\shpinst
+\shpleft10286\shptop-2\shpright10421\shpbottom78
+\shpfhdr0\shpwr3\shpwrk0\shplid250\shpz31
+\shpbxpage\shpbypara\shpwr3\shpfblwtxt0{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 135}}
+{\sp{\sn geoBottom}{\sv 80}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;5;(0,0);(134,0);(134,80);(0,80);(0,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;12;16384;45824;1;45824;1;45824;1;45824;1;45824;24577;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 1}}
+{\sp{\sn fillColor}{\sv 13621460}}
+{\sp{\sn fLine}{\sv 0}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\ri916\qr\sl240\slmult1\sb4\tx1423\f0\fs6\b0\cf9 -\tab \f0\fs6\b0\i0\charscalex95 -\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs20\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs20\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs20\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs20\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs20\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs20\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb7\f0\fs18\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li2660\sl240\slmult1\sb89\f1\fs37\b0 \'E8\'F7. \f0\fs22\b0\i0 1: <nll,\'DCrr q.uwhwmuwu pw11,wri-rr uwubr,\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li122\fi700\ri125\sl405\slmult1\sb326\tx3507\tx5172\tx6512\tx7618\f1\fs25\b0 (.nrtbrt, \expnd10\expndtw49  \f1\fs25\b0\i0\expnd0\expndtw0 t\'EBut\'EBbuw\'F7wu\tab q.uwhwt\'EBuwu\tab \f1\fs25\b0\i0\charscalex90 hwr,gbr,n\'F7_\tab \f1\fs25\b0\i0\charscalex100 t\'EBwr,pbr,\tab \f1\fs25\b0\i0\charscalex90 d-wuwuw\'F7ubr,nLu qpw11\'F7.bL bu U,()-, Qbr,\'DCunL2\'F7t,u[! (1958r3., 1963r3.), 3:>.3. qw\'F7_runL\'D7[! (1974r3.),\expnd2\expndtw10  \f1\fs25\b0\i0\expnd0\expndtw0 L[_J,.\par\sect\sectd\sbkpage\margtsxn1060\pard\plain\s2\nooverflow\nocwrap\lnbrkrule\li135\qj\sl240\slmult1\sb67\f0\fs26\b0\charscalex85 ()-bq.t\'EBJwrn\'F7_Q (1979  \'C3\'F1\'7D,,1984  r3.), 1.J.3:>.  SJnLrub'ugb\'F7_Q(1975 r3.),  U.U.  \'D7\'CBL\'D7\'CF\'D7.Q,  'll.\expnd-2\expndtw-9  \f0\fs26\b0\i0\expnd0\expndtw0 3:>.\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li130\fi7\ri110\qj\sl388\slmult1\sb187\f0\fs26\b0\charscalex95 lnJ\'F7n'u , U.U. q_wLb'u \'F7n'u, t,,\'F7_. 'lln11-\'F7n\'F7_w'u(1996r3.), U.U. Qb2b\'F7_Q lL ri.'ll. 3:>bub'u\'F7n'u(2000r3.), U.U. \'F7_wnLWU\'CF4_Q, U,\'F7_, Ub\'F7_but\'EBJ\'CFL'un\'F7_Q(2006r3.), (.,\'F7_, Lf\'F7rmilw'uQ(1976r3.), U.U. bqb\'F7Jw'uQ(2004r3.,2007r3.), 'll.U. t b'uri-Jw'u (201\'E1r3.), (._() \f0\fs26\b0\i0\charscalex90 ()_wqwrJw'u(2019r3.), U.Q. \'F7rnJw'u (2019r3.) \f0\fs26\b0\i0\charscalex85 LL \f0\fs26\b0\i0\charscalex90 nLrt,2tibr: \'CF\'F8nLu'uwut,rnL\'C3<\'7DJ\'CFL'u'ubrt, wrri-JnL'uJ2\'CFLU\expnd-3\expndtw-13  \f0\fs26\b0\i0\expnd0\expndtw0 hw'uq.bL\expnd-3\expndtw-17  \f0\fs26\b0\i0\expnd0\expndtw0 \'FC\'FC\expnd-2\expndtw-10  \f0\fs26\b0\i0\expnd0\expndtw0 WJ'u\expnd0\expndtw1  \f0\fs26\b0\i0\expnd0\expndtw0 bqrw\'F7wgnL\'C3<\'7DJW'u,\expnd-2\expndtw-11  \f0\fs26\b0\i0\expnd0\expndtw0 nr\expnd-1\expndtw-5  \f0\fs26\b0\i0\expnd0\expndtw0 hnrtbrt,\expnd-2\expndtw-10  \f0\fs26\b0\i0\expnd0\expndtw0 t\'EB\'DCt\'EB\'DCu\'F8\'F7\'F8\'DC\expnd-2\expndtw-8  \f0\fs26\b0\i0\expnd0\expndtw0 q.'uwhwt\'EBuw'u\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li139\qj\sl-330\f0\fs26\b0\charscalex95 ht,u'uw\'F7w'u tutiri-t,rQ \'D7WJW'u\'CFLU \f0\fs36\b0\i0 t\expnd-12\expndtw-61  \f0\fs26\b0\i0\expnd0\expndtw0 tirw'unLU, nr hnrtbrt, mwrpbr hwt\'EB\'D7\'CFL\'C3<\'7DJ\'CFL'u'ubrt,,\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li122\ri140\qj\sl384\slmult1\sb164\f0\fs26\b0\charscalex90 q.Jn\'F9wt\'EB'ut\'EBbuw\'F7w'u wrmwri-rnL\'C3<\'7DJW'u \'D9\'D8JUW'u'ubrt, lL wr11-JnL'uJ2r pwquw\'F7n11uw'ut, hw2\'F7_wnuw'u ut,2ngn\'F7_ hwut\'EBwt\'EB\'F7_b'u J\'CFLrWJ2W'ui1nLr hn11oq.t\'EBwq.nrouw'u \f0\fs26\b0\i0\charscalex95 hwuwr \f0\fs26\b0\i0\charscalex90 hnrtr \f0\fs26\b0\i0\charscalex85 q.t,'uQ, wrmwri-rw\'F7w'u \'CFL'uw\'F7nL\'C3<\'7DJ\'CFL'uQ LL ht,u'uw\'F7_nr\'F7_b'u q.Jn\'F9wt\'EB'ut\'EBbunL\'C3<\'7DJW'u ub2 \f3\fs25\b1\i0\charscalex89 hnrtbrt,\charscalex100   \charscalex74 wrri-JnL'uw\'F7_bt\'EB\charscalex100  \charscalex87 oq.t\'EBwq.nrWw'u\charscalex100  \charscalex62 \'CFL\charscalex100  \charscalex92 \'F9\'F8h\'F9\'F8W\'F8\'DC\charscalex100   \charscalex87 h\charscalex63 'u\charscalex100  \charscalex87 wr\charscalex100  \charscalex87 w\charscalex74 \'F7.nr\charscalex100  \charscalex83 n\charscalex46 L\charscalex42 \'C3<\'7DJ\charscalex69 \'CF\charscalex46 L\charscalex63 'u'u\charscalex89 br\charscalex100  \charscalex62 Q\fs14\up12\charscalex74 1\up0 :\par\pard\plain\s2\nooverflow\nocwrap\lnbrkrule\li123\fi703\ri147\qj\sl297\slmult1\sb16\f0\fs26\b0 (.nrtQ, nr\'F9bu mwrpbr nrw\'F7t, \'F0\'DC\'F8\'F7\'F8\'DC \'F9\'F82\'F8r, hn11oq.t\'EBwq.nrWw'u \f0\fs26\b0\i0\charscalex90 wrri-JnL'uw\'F7_bt\'EBnL\'C3<\'7DJ\'CFL'uQ OpJb\'F7mt,\'F7_ \'F7\'FCr\'F9n\'F7_ p'unLr3wq.r\'F7_nLU \f0\fs36\b0\i0 t \f0\fs26\b0\i0 t\'EB\'DCt\'EB\'DCu\'F8\'F7\'F8\'DC \f0\fs26\b0\i0\charscalex100 gnLgw'ut,2tibrt,\expnd-3\expndtw-13  \f0\fs26\b0\i0\expnd0\expndtw0 hwuw\'F7wrq.n\'F7_,\expnd-1\expndtw-6  \f0\fs26\b0\i0\expnd0\expndtw0 t,u\'F7\expnd-2\expndtw-8  \f0\fs26\b0\i0\expnd0\expndtw0 nr\'F9bu\expnd-2\expndtw-8  \f0\fs26\b0\i0\expnd0\expndtw0 wrmw11-rwut,2ng,\expnd-2\expndtw-11  \f0\fs26\b0\i0\expnd0\expndtw0 hnrtQ\expnd-3\expndtw-17  \f0\fs26\b0\i0\expnd0\expndtw0 q.'uwhwt\'EB\'F7_nLU\expnd-3\expndtw-17  \f0\fs36\b0\i0\expnd0\expndtw0 t\par\pard\plain\s3\ls1\ilvl1\nooverflow\nocwrap\lnbrkrule\li139\fi-17\ri161\qj\sl386\slmult1\sb58\tx403\tx3246\tx5379\tx8047\f0\fs26\b0\charscalex95 n\'F9wt\'EB'ut\'EBbuw\'F7w'u\tab urabrJ2'ubrt,\tab \f0\fs26\b0\i0\charscalex80 wrmwri-rnL\'C3<\'7DJW'u\tab \f0\fs26\b0\i0\charscalex90 t\'EB\'DCt\'EB\'DCu\'F8\'F7\'F8\'DC wrri-JnL'uw\'F7_bt\'EBnL\'C3<\'7DJ\'D8Up: (.n11t, q.'uwhwt\'EBnLu'u QUt\'EB  q.Jn\'F9wt\'EB'ut\'EBbuw\'F7w'u\expnd8\expndtw38  \f0\fs26\b0\i0\expnd0\expndtw0 urabrJ2'ubrt,\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li139\fi-1\ri151\qj\sl319\slmult1\sb8\f0\fs26\b0\charscalex85 wrmwri-rnL\'C3<\'7DJW'u \'F7.r\'F8 \'F7\'F8m\'F8r\'F7_\'F8\'EE \'F82tuwm\'F8'uJ2WJt,'u owtuubrt, wrri-JnL'uw\'F7_bt\'EBnL\'C3<\'7DJW'u, \f0\fs26\b0\i0\charscalex95 nrn2\'F7_nLU \f0\fs36\b0\i0 t \f0\fs26\b0\i0 hnrtbrt, t\'EB\'DCt\'EB\'DCu\'F8\'F7\'F8\'DC q.'uwhwt\'EBuw'u hwrwpbrw\'F7w'u (P\'D8LWJt,'u) \f0\fs26\b0\i0\charscalex85 ubo\'CFL\'C3<\'7DJ\'CFL'u'ubrn\'F7_: (.nrtbrt, \'F7\'F8ri-wumrwJt,'u q.'uwhwt\'EBuw'u  'uJ\'CFL\'C3<\'7Dbr'u  oq.t\'EBwq.nro\'F7_nLU\expnd-3\expndtw-14  \f0\fs26\b0\i0\expnd0\expndtw0 \'FC\'FC\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li137\fi2\ri139\qj\sl386\slmult1\sb111\f0\fs26\b0\charscalex95 hnrtr \f0\fs26\b0\i0\charscalex100 hwr\'F7r, \f0\fs26\b0\i0\charscalex95 \'F7.\'F8r6\'F8\'F7_6\'F8rt, \f0\fs26\b0\i0\charscalex80 lL \f0\fs26\b0\i0\charscalex95 'unruwmt,\'F7_wJt,'u wrd-bJ2r nrn2uw'u, hnrtr 2\'CFL\'D7\'D8Jt, \'D7WJwguw'u \f0\fs26\b0\i0\charscalex80 LL \f0\fs26\b0\i0\charscalex95 qwrq.wguw'u, hnrtr Lt,ntuhwt\'EBnLguw'u wt.t,brt,  hwut\'EBwt\'EBuw'u, hn11wuwubt, mrwuwri-ruw'u \f0\fs26\b0\i0\charscalex80 lL \f0\fs26\b0\i0\charscalex95 omwruw'u q.nronrt\'CFL\'C3<\'7DJ\'CFL'u'ubrt, \'F7\'F8mwruw'u, hnrtti un'ut,ranrt,'uq.t, w'ug\'F7wguw'u, hn11wubLt,w\'F7w'uwmbrbrt,, hn11oq.t\'EBwq.nron11'ubrt, \f0\fs26\b0\i0\charscalex80 lL \f0\fs26\b0\i0\charscalex90 \'F7_wr6w\'F7wL'ubrt, t\'EB\'DCt\'EB\'DCu\'F8\'F7\'F8\'DC q.nronL'ub\'CFL\'C3<\'7DJW'u w\'F9whn\'F7_uw'u, \'F9\'DCm\'F8\'F7\'F8\'DC, uwrqwJt,'u, \f0\fs26\b0\i0\charscalex95 t\'EB\'DC\'E3t\'F8\'F7\'F8\'DC t,'uJ2'u\'F8\'F7wnw\'F7_wruw'u \f0\fs26\b0\i0\charscalex80 LL \f0\fs26\b0\i0\charscalex95 uwu'uw\'F7_nr ubLt,w\'F7w'unL\'C3<\'7DJW'u hnrt\'F8Jt,'u hwrwpbrnL\'C3<\'7DJ\'CFL'u'ubrt, \'F7\'F8rq.w\'F7_nruw'u, \'E3t\'DC\'F7\'F8\'F7.\'F8ru\'F8\'DC \f0\fs26\b0\i0\charscalex80 LL WJL \f0\fs26\b0\i0\charscalex95 tutiri-t,rtibr \f0\fs26\b0\i0\charscalex80 L\'CFLObL\'CFL \f0\fs26\b0\i0\charscalex100 hwuwr:\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li120\qj\sl240\slmult1\sb8\f0\fs26\b0 (.nrtbrt, \'F7\'F8ri-wumrwJt,'u q.'uwhwt\'EBuw'u u\'F7qpnL'uJ2'ubr'u \'DC\'DC'\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs20\b0\i0\par
+{\shp{\*\shpinst
+\shpleft1692\shptop367\shpright4596\shpbottom387
+\shpfhdr0\shpwr3\shpwrk0\shplid264\shpz32
+\shpbxpage\shpbypara\shpwr1{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn dxWrapDistLeft}{\sv 0}}{\sp{\sn dxWrapDistRight}{\sv 0}}{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2904}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(2903,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 6102}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb1\f0\fs28\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li115\qj\sl240\slmult1\sb86\f1\fs10\b0\up7 1 \f0\fs18\b0\i0\up0 Pnq.nump.n\'F7_w \f1\fs17\b0\i0 U.U. \f0\fs18\b0\i0 (nriwJru rrw\'F7_\'CFLU!), \f1\fs17\b0\i0 2002 \f0\fs14\b0\i0 [\'E0.\par\sect\sectd\sbkpage\margtsxn1080\pard\plain\s3\ls1\ilvl2\nooverflow\nocwrap\lnbrkrule\li845\fi-362\ri185\qj\sl405\slmult1\sb70\tx844\f1\fs25\b0\charscalex90 q.uwhwt\'EB\'F7_nri. hnri.brQ 11-t,m\'F7_n\'EDI bu nr\'F9bu wu2wrct q_\'CFLJJ2, 2\'CFL\'D7WJW\'D7WU \f1\fs25\b0\i0\charscalex95 hwrwpbrnLt\'B8\'7DJ\'CFLUubrnLI.I\expnd-9\expndtw-47  \f1\fs25\b0\i0\expnd0\expndtw0 q.\'CFLJJ2WJt,ti\expnd-2\expndtw-9  \f1\fs25\b0\i0\expnd0\expndtw0 2r2wuwn.nLf\'B8\'7DJWU\expnd-7\expndtw-36  \f1\fs25\b0\i0\expnd0\expndtw0 OpJb\'F7m,\par\pard\plain\s3\ls1\ilvl2\nooverflow\nocwrap\lnbrkrule\li845\fi-362\ri135\qj\sl396\slmult1\tx846\f1\fs25\b0\charscalex95 hnri.brt, q.uwhwt\'EBuwu QUfcrW9J2\'CFLU hw2\'F7.r bu wnu\'F7_nLU \'F7.wrbLwhnri.brt, \f1\fs25\b0\i0\charscalex100 nrw\'F7w\'F7wu\expnd-5\expndtw-27  \f1\fs25\b0\i0\expnd0\expndtw0 ht,uuw\'F7wu\expnd-4\expndtw-22  \f1\fs25\b0\i0\expnd0\expndtw0 hwt\'EB\'D7\'CFLfcrJ\'CFLUubrQ'\expnd-6\expndtw-31  \f1\fs25\b0\i0\expnd0\expndtw0 pnut,muwu\expnd-4\expndtw-18  \f1\fs25\b0\i0\expnd0\expndtw0 gnLgwut,2ubrQ,\par\pard\plain\s3\ls1\ilvl2\nooverflow\nocwrap\lnbrkrule\li843\fi-360\ri157\qj\sl400\slmult1\sb21\tx855\f1\fs25\b0 \'F7_wrbLwhnri.brt, lL pwquwuJw mu\'F7wr\'F7ubrt, lL \'F7_wrt, buraw\'F7w WJL hnri.brt, q.uwhwt\'EB\'CFLUQ \'F7wmwr\'F7_nLU t hnri.wq.uwhwt\'EBuwu 2r2wut, t\'EBut\'EBbuw\'F7wu gnLgwut,2ubrt,, ut,2t,u pwqt,uwJt,ti L\'CB\'D7JWLubrt, ht,uwu\expnd-3\expndtw-16  \f1\fs25\b0\i0\expnd0\expndtw0 \'F7.rw,\par\pard\plain\s3\ls1\ilvl2\nooverflow\nocwrap\lnbrkrule\li846\fi-363\ri155\qj\sl396\slmult1\sb6\tx844\f1\fs25\b0\charscalex95 q.uwhwt\'EB\'CFLUQ \'F7wmwr\'F7_nLU t P\'CFLnr hnri.wuwubrt, \'F7mr\'F7_\'F8\'CEJ2\'CF\'D7., wu\'F7wtu ubLt,w\'F7wu\'CFLfcrJWU LL oq.t\'EBwq.nrWwu\expnd2\expndtw12  \f1\fs25\b0\i0\expnd0\expndtw0 6u.brt,g,\par\pard\plain\s3\ls1\ilvl2\nooverflow\nocwrap\lnbrkrule\li846\fi-363\ri134\qj\sl405\slmult1\sb13\tx844\f1\fs25\b0\charscalex95 q.uwhwt\'EBuwu t\'EB\'D7JWLubrQ \'F9\'DCt\'EBJ2 t Ltiubu hn\'F8wlti, hw\'F7_wumt,, hwuwLrr lL ut\'EBwg\'F7_bu ut,wuuw\'F7wu\expnd5\expndtw27  \f1\fs25\b0\i0\expnd0\expndtw0 ubran11-t,\'F7wJ\'CF\'D7.,\par\pard\plain\s3\ls1\ilvl2\nooverflow\nocwrap\lnbrkrule\li842\fi-359\ri134\qj\sl405\slmult1\tx846\f1\fs25\b0\charscalex90 \'F9\'DCt\'EBJ2\expnd-3\expndtw-17  \f1\fs25\b0\i0\expnd0\expndtw0 t\expnd-1\expndtw-6  \f1\fs25\b0\i0\expnd0\expndtw0 hw2\'F7.r\expnd-1\expndtw-5  \f1\fs25\b0\i0\expnd0\expndtw0 wnu\'F7_t,\expnd-4\expndtw-21  \f1\fs25\b0\i0\expnd0\expndtw0 q.uwhwt\'EBuwu\expnd-3\expndtw-14  \f1\fs25\b0\i0\expnd0\expndtw0 L\'CB\'D7JWLubrt,\expnd-4\expndtw-19  \f1\fs25\b0\i0\expnd0\expndtw0 \'F9bmw\'F7wu\expnd-6\expndtw-29  \f1\fs25\b0\i0\expnd0\expndtw0 u2wuw\'F7nLt\'B8\'7DJ\'CFLUQ\expnd-5\expndtw-25  \f1\fs25\b0\i0\expnd0\expndtw0 lL \f1\fs25\b0\i0\charscalex95 UWt\'EBibLt,\'CFLfcrJ\'CFLUQ,\par\pard\plain\s3\ls1\ilvl2\nooverflow\nocwrap\lnbrkrule\li845\fi-362\ri179\qj\sl393\slmult1\tx844\f1\fs25\b0\charscalex90 q.uwhwt\'EBuwu wr'l-J\'CFLUJ2UbrQ \'F9\'DCt\'EBJ2 bu hnri.oq.t\'EBwq.nronri.\expnd-9\expndtw-45  \f1\fs25\b0\i0\expnd0\expndtw0 P\'CFLnr U\'CFLpJb\'F7mubrt, \f1\fs25\b0\i0\charscalex100 hwuwr:\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li122\fi354\ri140\qj\sl403\slmult1\sb21\f1\fs25\b0\charscalex95 (.nri.brt,\expnd-6\expndtw-30  \f1\fs25\b0\i0\expnd0\expndtw0 \'F7w11-wumrwJt,ti\expnd-6\expndtw-30  \f1\fs25\b0\i0\expnd0\expndtw0 q.uwhwt\'EB\'CFLUQ\expnd-4\expndtw-20  \f1\fs25\b0\i0\expnd0\expndtw0 QU'l-\'D7-r\'F7nLU\expnd-4\expndtw-21  \f1\fs25\b0\i0\expnd0\expndtw0 t\expnd-3\expndtw-14  \f1\fs25\b0\i0\expnd0\expndtw0 rui\'F9bu\expnd-6\expndtw-30  \f1\fs25\b0\i0\expnd0\expndtw0 puw\'F7wu\expnd-6\expndtw-31  \f1\fs25\b0\i0\expnd0\expndtw0 q.nronuubrQ, WJu\'F9bu tL t\'EBut\'EBbuw\'F7wu \'D9WJUwuubrQ, nrnuJ2 punLrawq.r\'F7_nLU bu t\'EBut\'EBbuw\'F7wu pbrrt,nLf\'B8\'7DJWUp, t\'EBbri.w11-r\'F7.wonLf\'B8\'7DJWUp \f1\fs25\b0\i0\charscalex90 LL \f1\fs25\b0\i0\charscalex95 wrmw11-rw\'F7wu q.nronuubrn\'F7_: (.nri.brt, \f1\fs25\b0\i0\charscalex100 t\'EBut\'EBbuw\'F7wu q.uwhwt\'EBuwu \f1\fs25\b0\i0\charscalex90 QUfcrW9J2\'CFLU \f1\fs25\b0\i0\charscalex100 hnri.t, hwu\'DCuwmw\'F7wu nrw\'F7Q wrmwhwJt\'EB4_\'CFLU\expnd-5\expndtw-23  \f1\fs25\b0\i0\expnd0\expndtw0 t\expnd1\expndtw5  \f1\fs25\b0\i0\expnd0\expndtw0 rui\'F9bu\expnd-2\expndtw-11  \f1\fs25\b0\i0\expnd0\expndtw0 pwgwr\'E1w\'F7,\expnd-1\expndtw-3  \f1\fs25\b0\i0\expnd0\expndtw0 WJu\'F9bu\expnd-1\expndtw-4  \f1\fs25\b0\i0\expnd0\expndtw0 tL\expnd-5\expndtw-25  \f1\fs25\b0\i0\expnd0\expndtw0 hwrwpbrw\'F7wu\expnd-1\expndtw-4  \f1\fs25\b0\i0\expnd0\expndtw0 gnLgwut,2ubrn\'F7_: ()-rwuJ2 J2Wuw\'F7w\'F9bu iWtrw\'F7gbLr bu \f1\fs25\b0\i0\charscalex90 LL \f1\fs25\b0\i0\charscalex100 punLrawq.rnLU bu hnri.t, nrw\'F7Q nr\'F9bu q.Jn\'F9wmut\'EBbuw\'F7wu wrmw11-rnLf\'B8\'7DJWU\expnd-5\expndtw-25  \f1\fs25\b0\i0\expnd0\expndtw0 ut,2ng:\par
+{\shp{\*\shpinst\shpleft10221\shpright10241\shptop2040\shpbottom2207\shpbxpage\shpbypara\shpwr3\shpfblwtxt1\shpz34\shplid283{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn shapeType}{\sv 202}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn txflTextFlow}{\sv 0}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn fLine}{\sv 0}}
+{\sp{\sn dxTextLeft}{\sv 0}}{\sp{\sn dxTextRight}{\sv 0}}{\sp{\sn dyTextTop}{\sv 0}}{\sp{\sn dyTextBottom}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\shptxt\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl-166\f0\fs15\b0\charscalex47 :\par}}}
+\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li124\fi362\ri148\qj\sl403\slmult1\sb12\f1\fs25\b0\charscalex90 Urmw11-rwuJ2ti J2Wuw\'F7t, \'F7.rw/hw\'F7_wuwrwubo/ wrmw11-rw\'F7wu owtuubrt, 11-b\'F9J2\'CFLU t\'EBut\'EBbuw\'F9bu wq11-nLU t hnri.t, nrw\'F7Q: UJL tunuJ2\'CF\'D7., hnri.t, nrw\'F7t, mwrpbrnLt\'B8\'7DJ\'CFLUQ nrn2\'F7_nLU t hw\'F7_wuwrwubo owtuubrt, wr'l-J\'CFLuw\'F7_bt\'EB\'CFLfcrJWUp, nrnuJ2 ubr11-r\'F7.bL bu mwrpbr nrw\'F7t, hnri.brt, \'F7.rw: Lfbran11-nLnq.t,w\'F7wu WJ'l-\'F9tiut, '1-\'CFLJt\'B8\'7DtibrQ hbt\'EBU.\'CFLU bu \f1\fs25\b0\i0\charscalex91 hnri.br\charscalex100  \charscalex84 pbrrt,nLf\'B8\'7DJWU\charscalex100  \charscalex54 LL\charscalex100  \charscalex92 11-t,\charscalex100  \charscalex92 brbugt,wL\charscalex100  \charscalex90 nbut\'EBwJt,\charscalex100  \charscalex96 t\'EBut\'EBbuwq.t,mw\'F7wu\charscalex100  \charscalex73 \'CF\charscalex59 LU\charscalex80 U\'CF\charscalex54 L\charscalex83 U\charscalex53 J2\charscalex92 t,9\f0\super\charscalex109 2\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs20\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs20\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f0\fs20\b0\i0\par
+{\shp{\*\shpinst
+\shpleft1692\shptop189\shpright4596\shpbottom209
+\shpfhdr0\shpwr3\shpwrk0\shplid281\shpz33
+\shpbxpage\shpbypara\shpwr1{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn dxWrapDistLeft}{\sv 0}}{\sp{\sn dxWrapDistRight}{\sv 0}}{\sp{\sn shapeType}{\sv 0}}
+{\sp{\sn rotation}{\sv 0}}
+{\sp{\sn geoRight}{\sv 2904}}
+{\sp{\sn geoBottom}{\sv 20}}
+{\sp{\sn shapePath}{\sv 4}}
+{\sp{\sn pVerticies}{\sv 8;2;(0,0);(2903,0)}}
+{\sp{\sn pSegmentInfo}{\sv 2;5;16384;45824;1;45824;32768}}
+{\sp{\sn fFillOK}{\sv 1}}
+{\sp{\sn fFilled}{\sv 0}}
+{\sp{\sn lineWidth}{\sv 6102}}
+{\sp{\sn lineColor}{\sv 0}}
+{\sp{\sn fLine}{\sv 1}}{\sp{\sn lineType}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}
+{\sp{\sn posrelv}{\sv 2}}
+{\sp{\sn fArrowheadsOK}{\sv 1}}
+}}
+\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb7\f0\fs12\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li124\sl240\slmult1\sb76\f0\fs11\b0\up8 2 \f1\fs17\b0\i0\up0 \'CF-r\'F7\'F8r\'F9\'EF 'l-w\'F7.r'l-, 1955, \'C3'Lru U. 1987ra.\par\sect\sectd\sbkpage\margtsxn1080\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li137\fi683\ri149\qj\sl403\slmult1\sb70\f1\fs25\b0 -flwt\'F4 nr hnrtr pbrrt,nLf\'B8\'7DJW'u \'F7.rw wqri-n\'EDI t t,'u \'F9bu hn11w-L\'EDt,uwJw\'F7w'u, \f1\fs25\b0\i0\charscalex95 WJ'u\'F9bu tL t\'EB'ut\'EBbuw\'F7w'u \'D9WJUW'u'ubrQ, w\'F9w ubranri-w\'F9bu \'E1t,2m \'D7Lr'ut, hnrtbrt, t\'EB'ut\'EBbuw\'F7w'u q.'uwhwt\'EB\'CFLUQ rrw\'F7w'uwg'ubL QUt\'EB hn11w-q.'uwhwt\'EBuw'u 2r2w'u'ubrt,:\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li123\fi699\ri136\qj\sl400\slmult1\sb2\f1\fs25\b0 (.n11brt, \'F7wri-wumrwJt,'u q.'uwhwt\'EBuw'u \'F7wru.nr tutiri-t,rQ tirw gnLgw'ut,2tibrt, Q'ut\'EBrnLu'u \'CFL ht,u'uw\'F7_nrnLu'u t:  q_'(Jwhwt\'EBuw'u  Q'urawg \'CFLU  u\'DC\'F7 \f1\fs25\b0\i0\charscalex95 gnLgw'ut,2fpbr wt\'EB\'F7_nLtaJ\'CFL'u,owtuubr/  hw'uri-t,uw'unLU t  uwu'uw\'F7_nr,  t,u\'F7\expnd3\expndtw16  \f1\fs25\b0\i0\expnd0\expndtw0 UJ\'CFLUQ\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li121\sl240\slmult1\sb7\f1\fs25\b0\charscalex90 /hwuwtuwn.'u\expnd0\expndtw1  \f1\fs25\b0\i0\expnd0\expndtw0 wrmwri-rw'u\expnd-4\expndtw-21  \f1\fs25\b0\i0\expnd0\expndtw0 ,\expnd-1\expndtw-5  \f1\fs25\b0\i0\expnd0\expndtw0 b\'F7wut\'EBwpbrnLt\'B8\'7DJ\'CFL'u/\expnd-6\expndtw-28  \f1\fs25\b0\i0\expnd0\expndtw0 Q'uri-hw'unLr:\expnd-4\expndtw-22  \f1\fs25\b0\i0\expnd0\expndtw0 ()-rw'u\expnd-2\expndtw-9  \f1\fs25\b0\i0\expnd0\expndtw0 wupn112nLf\'B8\'7DJWUp\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li140\fi-16\ri162\sl405\slmult1\sb197\tx5861\f1\fs25\b0\charscalex95 u. hwuw\'F7n11uw'ut, wqri-nLU \'FC\'FC\expnd4\expndtw22  \f1\fs25\b0\i0\expnd0\expndtw0 hnrtr\expnd3\expndtw16  \f1\fs25\b0\i0\expnd0\expndtw0 q.'uwhwt\'EBuw'u\tab \f1\fs25\b0\i0\charscalex100 wt.t,w'ut,2tibrt,\expnd-5\expndtw-26  \f1\fs25\b0\i0\expnd0\expndtw0 \'F7.rw\expnd-4\expndtw-22  \f1\fs25\b0\i0\expnd0\expndtw0 u.\expnd-5\expndtw-26  \f1\fs25\b0\i0\expnd0\expndtw0 t\'EBWLt,U\expnd-4\expndtw-21  \f1\fs25\b0\i0\expnd0\expndtw0 \'FC\'FC w'uhrwctb2m\expnd-3\expndtw-15  \f1\fs25\b0\i0\expnd0\expndtw0 p'unLrawq.t,rQ\expnd-7\expndtw-34  \f1\fs25\b0\i0\expnd0\expndtw0 q.'uwhwt\'EBuw'u\expnd0\expndtw1  \f1\fs25\b0\i0\expnd0\expndtw0 wn.wr\'F7wJt,'\expnd-3\expndtw-16  \f1\fs25\b0\i0\expnd0\expndtw0 hnrtr\expnd-2\expndtw-9  \f1\fs25\b0\i0\expnd0\expndtw0 \'F7_brwpbrJWL:\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li115\fi707\ri147\qj\sl405\slmult1\f1\fs25\b0\charscalex95 (.n11brt, \'F7wri-wumrwJt,'u q.'uwhwt\'EBuw'u gnLgw'ut,2tibrt,'u wn.w2wri-r\'F7_nLU \'FC\'FC \f1\fs25\b0\i0\charscalex100 nrn2w\'F7t, \'F9whw'u2tibr' wn.w2t,'uQ Lr'ub'u hn\'F8wLr, \f1\fs25\b0\i0\charscalex95 Ut\'EB\'CFLJq. \f1\fs25\b0\i0\charscalex100 u. Lrwrctb nr\'F9bu q.'uwhwt\'EBuw'u wn.wr\'F7w, \'FCr\'F7rnrri-Q' \'CFL'ub'uwL \'F7nti\'F7rbm \'F7rrwn.w\'F7w'u \f1\fs25\b0\i0\charscalex90 'u2w'uw\'F7nLtaJ\'CFL'u:Lft,wJ'u WJ\'C3l- ri-b\'F9 nLU q.'uwhwt\'EBuw'u u'uJ\'CFLtabrQ \'F7wrnrt \'FC\'FC LWJ'u \f1\fs25\b0\i0\charscalex95 oq.t\'EBwq.nronLU \'CFL'ub'uwL t\'EB'ut\'EBbuw\'F7w'u hwuwLrrnLu:5nLgw'ut,2tibrt, hw2\'F7_wn.uw'u Q'urawg \'CFLU w'uhrwctb2m t \'F9wh\'F9w'ubL nrn2w\'F7t, hbrraw\'F7w'unLt\'B8\'7DJ\'CFL'u' uwu'uw\'F7t,t,g\'AD \f1\fs25\b0\i0\charscalex100 Q\'FC ri-h w\'FCnLr:\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li120\fi702\ri125\sl403\slmult1\tx1153\tx3399\tx6891\tx7607\f1\fs25\b0\charscalex95 (.n11brt, \'F7wri-wumrwJt,'u q.'uwhwt\'EBnLu'u wrmwhwJt\'EB4_\'CFLU t t,'u \'F9bu pwgwr\'E1w\'F7, \f1\fs25\b0\i0\charscalex85 WJ'u\'F9bu\tab \f1\fs25\b0\i0\charscalex100 tL \expnd8\expndtw41  \f1\fs25\b0\i0\expnd0\expndtw0 hwrwpbrw\'F7w'u\tab \f1\fs25\b0\i0\charscalex95 gnLgw'ut,2tibrn\'F7_:\expnd2\expndtw9  \f1\fs25\b0\i0\expnd0\expndtw0 UJ'u\'F9bu,\expnd4\expndtw19  \f1\fs25\b0\i0\expnd0\expndtw0 nr\tab \f1\fs25\b0\i0\charscalex100 hnrtr\tab \f1\fs25\b0\i0\charscalex85 pbrrnLt\'B8\'7DJ\'CFL'u'u rr \f1\fs25\b0\i0\charscalex95 wWt,2w\'F7w'u wrmwhwJt\'EB\'CFLfcrJ\'CFL'u'u t q.t\'EB'u\'CFLU 'uwtu u. wn.w2 \'F7nti\'F7rbm wrmwri-rw'u t, \f1\fs25\b0\i0\charscalex90 \'DCL \'CF\'F7_, q.Jn\'F9wt\'EB'ut\'EBbuw\'F7w'u u2w\'F7wp\'CFLJubrt, pbr wt\'EB\'F7_\'CFLfcrJWUp, hbt\'EBn WJ'u hw'uri-bu t \f1\fs25\b0\i0\charscalex100 q.wlt,u nr\'F9bu t\'EB'ut\'EBbuw\'F7w'u q.'uwhwt\'EBuw'u bLw\'F7bt\'EBwJt,'u\expnd-4\expndtw-19  \f1\fs25\b0\i0\expnd0\expndtw0 gnLgw'ut,2:\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li124\fi710\ri145\qj\sl403\slmult1\f1\fs25\b0\charscalex95 Cwt\'EB ri-b\'F9 brnLU 'u\'CFLJ'u u2w\'F7wp\'CFLJubrt, wrmwri-rnLf\'B8\'7DJW'u \'F7.rw owtuu\'F7_\'CFLU t \f1\fs25\b0\i0\charscalex100 mwrpbr   w'uw\'F7t,   w2tuwmw'u   u.   ut,2ng'ubr:    UJri-   \'F9wm\'E1wn.n\'F7_    ut,wWw'u \f1\fs25\b0\i0\charscalex95 pbr\expnd-9\expndtw-44  \f1\fs25\b0\i0\expnd0\expndtw0 wt\'EB\'F7_\'CFLfcrJ\'CFL'uQ,\expnd-3\expndtw-13  \f1\fs25\b0\i0\expnd0\expndtw0 wn.w'ug\expnd-2\expndtw-12  \f1\fs25\b0\i0\expnd0\expndtw0 hw2\'F7.r\expnd0\expndtw2  \f1\fs25\b0\i0\expnd0\expndtw0 wn.'ubL\'CFL\expnd-3\expndtw-16  \f1\fs25\b0\i0\expnd0\expndtw0 tirw\expnd-2\expndtw-8  \f1\fs25\b0\i0\expnd0\expndtw0 \'F7.rw\expnd-2\expndtw-8  \f1\fs25\b0\i0\expnd0\expndtw0 \'F7wmwr\'F7_wo\expnd-2\expndtw-12  \f1\fs25\b0\i0\expnd0\expndtw0 owtuubrt,\expnd2\expndtw11  \f1\fs25\b0\i0\expnd0\expndtw0 W\'D7,Q, \f1\fs25\b0\i0\charscalex100 \'FC\'FC p'unLrawq.rnLU hnrtr q.'uwhwt\'EB\'CFLUQ QUt\'EB nrw\'F7t,: Uw\'F7wJw'u mwrpbr w'uw\'F7t, \f1\fs25\b0\i0\charscalex90 w2tuwmw'u\expnd-5\expndtw-24  \f1\fs25\b0\i0\expnd0\expndtw0 t,\expnd-1\expndtw-5  \f1\fs25\b0\i0\expnd0\expndtw0 u.\expnd-6\expndtw-28  \f1\fs25\b0\i0\expnd0\expndtw0 ut,2ng'ubrt,\expnd9\expndtw43  \f1\fs25\b0\i0\expnd0\expndtw0 ri-b\'F9\expnd-6\expndtw-28  \f1\fs25\b0\i0\expnd0\expndtw0 nLU\expnd-2\expndtw-12  \f1\fs25\b0\i0\expnd0\expndtw0 ut,u.'unLJ'u\expnd-1\expndtw-5  \f1\fs25\b0\i0\expnd0\expndtw0 pbr\expnd-6\expndtw-31  \f1\fs25\b0\i0\expnd0\expndtw0 wt\'EB\'F7_\'CFLfcrJ\'CFL'uQ\expnd-2\expndtw-10  \f1\fs25\b0\i0\expnd0\expndtw0 \'F7\'F7wrblti\expnd-1\expndtw-5  \f1\fs25\b0\i0\expnd0\expndtw0 t\expnd-1\expndtw-6  \f1\fs25\b0\i0\expnd0\expndtw0 Ut\'EBW'uWL \f1\fs25\b0\i0\charscalex100 mwrpbr nrw\'F7t, hnrtbrt,g: Swrpbr nrw\'F7t, hnrtbrQub\'F7Q \f1\fs25\b0\i0\charscalex95 UJ\'CFLUt, \f1\fs25\b0\i0\charscalex100 hbt\'EB hwu\'DCuwt\'EBbL\'CFL \f1\fs25\b0\i0\charscalex95 hwuwr w'uhrwctb2m t \'F7_brg'ubL pbr wt\'EB\'F7_\'CFLfcrJW'u hwrwpbrnLf\'B8\'7DJW'uQ hw\'F7_wumt, \f1\fs25\b0\i0\charscalex100 (hw\'F7_wuwrwubo) owtuubrt,\expnd3\expndtw16  \f1\fs25\b0\i0\expnd0\expndtw0 w'uw\'F7n\'F7_:\par\sect\sectd\sbkpage\margtsxn1080\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li124\fi698\ri146\qj\sl405\slmult1\sb65\f1\fs25\b0\charscalex95 (.nri.brt, \'F7wri-wumrwJt,ti q.uwhwt\'EB\'CFLU[! \'F7wmwr\'F7_nLU t \'FCr\'F7nL t\'EBbUWU\'D7J\'CFLut,g' hnri.brt, [!U'l-hwunLr q.uwhwt\'EB\'CFLU LL uwuuw\'F7t, q.uwhwt\'EBnLu' hnri.t, q.uwhwt\'EB\'CFLU[! wnwu6t,u u2w\'F7wp\'CFLJubrt, wr'l-J\'CFLUW\'F7_bt\'EB\'CFL\'C3<\'7DJWUp:\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li137\fi685\ri161\qj\sl400\slmult1\f1\fs25\b0\charscalex90 (.nri.br[!\expnd-1\expndtw-5  \f1\fs25\b0\i0\expnd0\expndtw0 q.uwhwt\'EB\'F7_\'CFLU\expnd1\expndtw7  \f1\fs25\b0\i0\expnd0\expndtw0 bu\expnd-2\expndtw-12  \f1\fs25\b0\i0\expnd0\expndtw0 uwlL\expnd-1\expndtw-7  \f1\fs25\b0\i0\expnd0\expndtw0 '1-r\expnd-3\expndtw-15  \f1\fs25\b0\i0\expnd0\expndtw0 brbugt,wL\expnd-5\expndtw-25  \f1\fs25\b0\i0\expnd0\expndtw0 nbut\'EBwJt,\expnd0\expndtw1  \f1\fs25\b0\i0\expnd0\expndtw0 q.nLuwrn\'F7_:UJU\expnd-3\expndtw-13  \f1\fs25\b0\i0\expnd0\expndtw0 nrn2\'F7_nLU \f1\fs25\b0\i0\charscalex100 t hbt\'EBU.JWL\expnd-6\expndtw-31  \f1\fs25\b0\i0\expnd0\expndtw0 pwuw6u.n\'F7_:\par\sect\sectd\sbknone\cols2\colno1\colw1104\colsr40\colno2\colw8506\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f1\fs28\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li124\sl240\slmult1\sb168\f1\fs25\b0 nrmbri.'\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb2\f1\fs26\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\qr\sl240\slmult1\f1\fs14\b0 ()- -\dn3 0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li2794\sl-268 \column \f1\fs25\b0 ()-a=(.U-b \'D5 1,07\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\f1\fs28\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\sl240\slmult1\sb5\f1\fs33\b0\i0\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li95\sl240\slmult1\sb1\f1\fs25\b0 11-t, brbugt,wL b\'F7wunLt\'EBu t, 11-rwu/hb\'F7\par\sect\sectd\sbknone\cols1\colno1\colw9650\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li823\sl240\slmult1\sb182\f1\fs25\b0 (.U-[! hwuwtuwnu wrmw11-rwu12u t, 11-rwu/hb\'F7\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li817\sl240\slmult1\sb202\f1\fs25\b0 '0-u wrmwri-rnL\'C3<\'7DJWU pwqwJt,ti owtuubru bu, 11-rwu/hb\'F7\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li823\fi-12\sl400\slmult1\sb193\f1\fs25\b0\charscalex90 1,07-[! owtuubrt, u\'F7wmuwup 2whnLr3wpbrnL\'C3<\'7DJWU u\'F7_wqwq.nLJU q.nrow\'F7t,gu t: \f1\fs25\b0\i0\charscalex85 (.nri.wJt,ti nbut\'EBwu un\'F7_nrwpwr q.nJWU\'CFLU t LW\'D7., LW4_Wq_\'CFLJU hnri.brt, LL ut,2t,u \'CFL\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li116\fi7\ri134\qj\sl403\slmult1\sb11\f1\fs25\b0 gwor tuupt,' \'F7_wt\'EB nrw\'F7t, hnri.brt, puw\'F7wu pbrrnL\'C3<\'7DJ\'CFLuubrt, hwrwpbrnL\'C3<\'7DJWUp: \f1\fs25\b0\i0\charscalex95 (.wJt\'EBUt,\expnd-1\expndtw-5  \f1\fs25\b0\i0\expnd0\expndtw0 t,\expnd0\expndtw2  \f1\fs25\b0\i0\expnd0\expndtw0 nr\expnd3\expndtw13  \f1\fs25\b0\i0\expnd0\expndtw0 hw\'F7_buwL\expnd-3\expndtw-16  \f1\fs25\b0\i0\expnd0\expndtw0 pbrJ2[!\expnd-3\expndtw-17  \f1\fs25\b0\i0\expnd0\expndtw0 \'F7\'F8u\expnd-5\expndtw-27  \f1\fs25\b0\i0\expnd0\expndtw0 b\'F7wunLt\'EB[!\expnd-3\expndtw-13  \f1\fs25\b0\i0\expnd0\expndtw0 \'F7\'F8\'F9\'F7_w\'EE\expnd-2\expndtw-10  \f1\fs25\b0\i0\expnd0\expndtw0 t\expnd-2\expndtw-8  \f1\fs25\b0\i0\expnd0\expndtw0 uwlL\expnd-5\expndtw-23  \f1\fs25\b0\i0\expnd0\expndtw0 ut,LLunLJU\expnd-2\expndtw-8  \f1\fs25\b0\i0\expnd0\expndtw0 hnri.t,\expnd-2\expndtw-12  \f1\fs25\b0\i0\expnd0\expndtw0 \'F7_rw \f1\fs25\b0\i0\charscalex90 \'F7wmwr\'F7.nri.\expnd-8\expndtw-41  \f1\fs25\b0\i0\expnd0\expndtw0 LrwgnLgt,\expnd-5\expndtw-23  \f1\fs25\b0\i0\expnd0\expndtw0 w2tuwt\'EBWUJ2WJt,ti\expnd-7\expndtw-36  \f1\fs25\b0\i0\expnd0\expndtw0 lL\expnd-8\expndtw-41  \f1\fs25\b0\i0\expnd0\expndtw0 UJ\'CFL\'C3<\'7DW\'D7WU\expnd-6\expndtw-28  \f1\fs25\b0\i0\expnd0\expndtw0 ubrri-rnLuubrt,\expnd-7\expndtw-35  \f1\fs25\b0\i0\expnd0\expndtw0 hbt\'EB:UJu\'F9t,un\'F7_, \f1\fs25\b0\i0\charscalex100 hnri.wJt,ti nbut\'EBwu nr\'F9bu LrW9\'CFLgt, b\'F7wunLt\'EB, ut, \f1\fs25\b0\i0\charscalex90 11-b\'F9J2\'CFLU \f1\fs25\b0\i0\charscalex100 wt\'EBwg\'F7_nLU t q.Jn\'F9wmut\'EBbuw\'F7wu t12umbuut,\'F7_ qwrq.wguwu \'D9WJUWUubrnLu' nr\'F9bu nrn2w\'F7t, \f1\fs25\b0\i0\charscalex95 hnri.wmwrwo\'CFL\'C3<\'7DJ\'CFLuubrt,g rrwg\'F7_nri. LrwgnLgt, b\'F7wunLt\'EB, t,u\'F7 \'FCr\'F7rnrri- \f1\fs25\b0\i0\charscalex90 11-b\'F9J2nLu' q.Jn\'F9wmut\'EBbunL\'C3<\'7DJWU t,umbuut,\'F7_ qwrq.wguwu \'D9WJUWUubrnLu' nr\'F9bu w2tuwmwu12t, LL\expnd-6\expndtw-31  \f1\fs25\b0\i0\expnd0\expndtw0\charscalex95 \'F7w\'F9t,t\'EBwLr\expnd-4\expndtw-22  \f1\fs25\b0\i0\expnd0\expndtw0 LrwgnLgt,\expnd-7\expndtw-34  \f1\fs25\b0\i0\expnd0\expndtw0 ubrri-rnLuubrt,\expnd-6\expndtw-31  \f1\fs25\b0\i0\expnd0\expndtw0 wr'l-J\'CFLUJ2:\expnd-6\expndtw-29  \f1\fs25\b0\i0\expnd0\expndtw0 UJut\'EBbri.t,g\expnd-6\expndtw-29  \f1\fs25\b0\i0\expnd0\expndtw0 hbt\'EBU.\'CFLU\expnd-6\expndtw-29  \f1\fs25\b0\i0\expnd0\expndtw0 t,\expnd-3\expndtw-13  \f1\fs25\b0\i0\expnd0\expndtw0 nr\expnd-1\expndtw-3  \f1\fs25\b0\i0\expnd0\expndtw0 nbut\'EBwu \f1\fs25\b0\i0\charscalex100 \'CFLut, t,u \'F9bu puw\'F7wu, WJu\'F9bu tL t\'EBut\'EBbuw\'F7wu\expnd4\expndtw22  \f1\fs25\b0\i0\expnd0\expndtw0 owq.nLu:\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li837\sl240\slmult1\sb2\f1\fs25\b0 ()-t, brbugrwL nbut\'EBwu nrn2\'F7_nLU t uwlL hbt\'EBU.JWL pwuw6u.n\'F7_.\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li3150\sl240\slmult1\sb195\f1\fs25\b0\charscalex95 \'CF-\fs19 \'C3fl> \f1\fs25\b0\i0 = ( (.U - \f0\fs26\b0\i0 '\'CE \f1\fs25\b0\i0 \'F51.07 )+ \'EBn-L\'CBatu+ \'EBn-\f0\fs15 l\'CBOfl\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li124\sl240\slmult1\sb189\f1\fs25\b0 nrmbri.,\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li823\sl240\slmult1\sb193\f1\fs25\b0 (.U-hwuwtuwnu wrmw11-rwu12u t, 11-rwu/hb\'F7\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li818\sl240\slmult1\sb200\f0\fs26\b0 '\'CE- \f1\fs25\b0\i0 wrmwri-rw\'F7wu owtuubru t, 11-rwu/hb\'F7\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li823\fi-12\ri342\sl398\slmult1\sb180\f1\fs25\b0\charscalex90 1,07- owtuubrt, u\'F7wmuwup 2whnLr3wpbrnL\'C3<\'7DJWU u\'F7_wqwq.nLJU q.nrow\'F7t,gu t, \f1\fs25\b0\i0\charscalex100 (.U - \f0\fs26\b0\i0 '\'CE \f1\fs25\b0\i0 \'F51.07- nbut\'EBwJt, q.nLuwru t [!Ut\'EB pbrrt,nL\'C3<\'7DJWU, 11-rwu/hb\'F7\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li836\sl-280\f1\fs25\b0\charscalex90 n-L\'CBatu - mbtuunlnq.t,w\'F7wu q.nrow\'F7gn\'F7_ \'D9WJUWuw\'F7_nr\'F7_wo nbut\'EBwu t, 11-rwu/hb\'F7.\par\sect\sectd\sbkpage\cols2\colno1\colw1299\colsr40\colno2\colw8311\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li830\sl240\slmult1\sb75\f1\fs33\b0\expnd0\expndtw-1\charscalex64 n\expnd0\expndtw1 -\fs14\expnd0\expndtw-1\charscalex60 L\'CBO\'C3\expnd-8\expndtw-41 J\expnd2\expndtw12 -\expnd0\expndtw-1 .\par\pard\plain\s2\nooverflow\nocwrap\lnbrkrule\li204\sl240\slmult1\sb142 \column \f0\fs26\b0\charscalex85 hn11.brt, mb11.w11-r\'F7.wonLf\'B8\'7DJWUp \'D9WJUW'uw\'F7_nr\'F7_wo nb'ut\'EBw'u t 11-rwu/hb\'F7.\par\sect\sectd\sbknone\cols1\colno1\colw9650\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li122\fi704\ri138\qj\sl388\slmult1\sb168\f0\fs26\b0\charscalex95 (.n11.brt, q.'uwhwt\'EBuw'u L\'CB\'D7JWL'ubr[! hw2\'F7.wr\'F7wJt,'u ht,u12br \'FC\'FC OW\'CFWJ\'CFLU \f0\fs26\b0\i0\charscalex90 q.nro'uw\'F7w'u mwrpbr hwrgbrt, L\'CFLOUw'u' wrmwri-rnLf\'B8\'7DJW'u \'F7_brL\'CFLO\'CFLfcrJW'u, hn11.brt, \f0\fs26\b0\i0\charscalex100 wr'l-J\'CFL'uw\'F7_bt\'EB oq.t\'EBwq.nrMw'u, hn11.w2t,tiwrwrw\'F7w'u 'uwtuwq.obrt, u2w\'F7uw'u, \f0\fs26\b0\i0\charscalex85 p'u\'CFLfcrJW'u lL 2r2w\'F7w ut,2w\'F7.w\'FEt, \'F9wh\'F9w'u\'CFLfcrJW'u, 2\'CFL\'D7WJW\'D7W'u t\'EB'ut\'EBbU\'CFLfcrJW'u \f0\fs26\b0\i0\charscalex95 \'D9WJUW'u'ubrnLU hn'l.ti hwr\'F7r, \'F7.wr6w\'F7_\'E1wrt,, q.rw\'F7_t,, ubr\'F7_t,t\'EBnLt\'EBt, 'unruwmt,\'F7_'ubrt, \f0\fs26\b0\i0\charscalex100 u2w\'F7uw'u lL hn'l_WJt,'u WJL hwrwpbrnLt\'B8\'7DJ\'CFL'u'ubrt, \'F7wrq.w\'F7_nruw'u q.nronLU:\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li126\fi701\ri145\qj\sl388\slmult1\f0\fs26\b0\charscalex90{\ulth\ulc1 (.ntJbrb} \f0\fs26\b0\i0{\ulth\ulc1 \'D7WIJ.WUt\'EBQWlb'u} \f0\fs26\b0\i0{\ulth\ulc1 q'uwhwt\'EBuw'u} \f0\fs26\b0\i0{\ulth\ulc1 gnLgw'ub2'ubr[!}: q_J\'CFL'l_Wt\'EB'ut\'EBbuw\'F7w'u urabrJ2'ubrt, wrmwri-rnLf\'B8\'7DJW'u OW\'D7.WL'ubr[! nrn2\'F7_nLU \'FC\'FC \'F0\'DC\'DC11.\'DC\'DC' (qw'uq.\'F7_wo, hwt\'EB) lL \f0\fs26\b0\i0\charscalex95 wrd-bJ2WJt,'u gnLgw'ut,2tibrn\'F7.' hwuwtuwn'u wrmw11-rwti12t, wrctb12n\'F7. (t,rwguw'u \'F7\'F8u 2\'CFL\'D7WJW\'D7W'u q.'ubrn\'F7.):\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li139\fi688\ri128\qj\sl384\slmult1\f0\fs26\b0\charscalex90 (.n11.brt, \'F7wri-wumrwJt,'u q.'uwhwt\'EBuw'u gnLgw'ut,2tibr'u \'FC\'FC q.J\'CFL'l_Wt\'EB'ut\'EBbuw\'F7w'u u2w\'F7wp\'CFLJubrt, pbrJ2wt\'EB\'F7_\'CFLfcr\'CFL'u[!, hwuwtuwn'u wrmw11-rwti12t, wrd-bJ2[!, owtuubt, \f0\fs26\b0\i0\charscalex95 hwt\'EBnLguw'u q.nrow\'F7t,g[!, wrmwri-rnLf\'B8\'7DJW'u q.t,'u[!, qnLt\'EB b\'F7wunLt\'EB[!, '1-r brb'ugt,wL \f0\fs26\b0\i0\charscalex100 nb'ut\'EBw'u:\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li119\fi707\ri156\qj\sl386\slmult1\sb19\f0\fs26\b0\charscalex95 (.n11.brt, \'F7wri-wumrwJt,'u q.'uwhwt\'EBuw'u gn\'F9w'ut,2tibr[! hw2\'F7.wr\'F7bL\'CFL hwuwr \f0\fs26\b0\i0\charscalex85 w'uhrwctb2m t \'CFL'ub'uwL u2w\'F7wp\'CFLJubrt, gw'u12wmwrwonLt\'B8\'7DJ\'CFL'u'ubrt,, pbrJ2wt\'EB\'F7_\'CFLfcrJW'u, \f0\fs26\b0\i0\charscalex90 t,'ui\'F9bu\expnd-2\expndtw-12  \f0\fs26\b0\i0\expnd0\expndtw0 'uwlL\expnd-3\expndtw-17  \f0\fs26\b0\i0\expnd0\expndtw0 wrmwri-rnLf\'B8\'7DJW'u\expnd-3\expndtw-16  \f0\fs26\b0\i0\expnd0\expndtw0 \'F7.rw\expnd-2\expndtw-9  \f0\fs26\b0\i0\expnd0\expndtw0 \'F7wmwr\'F7_n'l_\expnd-4\expndtw-20  \f0\fs26\b0\i0\expnd0\expndtw0 owtuubt,\expnd-2\expndtw-11  \f0\fs26\b0\i0\expnd0\expndtw0 Lt,wut\'EBwgt,\expnd-1\expndtw-4  \f0\fs26\b0\i0\expnd0\expndtw0 ut,2t,'u\expnd-1\expndtw-7  \f0\fs26\b0\i0\expnd0\expndtw0 L\'CB\'D7JWL'ubr[! \f0\fs26\b0\i0\charscalex100 [!Ut\'EB q.'uwhwt\'EBuw'u 2r2w'u'ubrt, lL\expnd3\expndtw16  \f0\fs26\b0\i0\expnd0\expndtw0 hn11.wtuupbrt,:\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li137\fi690\ri161\qj\sl388\slmult1\sb6\f0\fs26\b0\charscalex90 (.wuwtuwn'u wrmw11-rwti12t, wrctb12t, hw2\'F7_wnuw'u ctwuw'uw\'F7 hw2\'F7.r t wn'u\'F7_nLU \f0\fs26\b0\i0\charscalex95 u2w\'F7wp\'CFLJubrt, gw'u12wmwrwonLt\'B8\'7DJ\'CFL'u'ubrt, \'F7wnnLg\'F7_woJ2[!: UJ'u nrn2\'F7_nLU t \'F7_t,\'E1w\'F7wq.rw\'F7w'u \f1\fs25\b0\i0 LL \f0\fs26\b0\i0 11-t,mwr\'F7nLu'ubrt, L\'CB\'D7JWL'ubrt, ht,uw'u \'F7.rw: (.wuwtuwn'u wrmw11-rw'u12n\'F7.\expnd-9\expndtw-44  \f0\fs26\b0\i0\expnd0\expndtw0 q.'uwhwt\'EBuw'u\expnd-1\expndtw-6  \f0\fs26\b0\i0\expnd0\expndtw0 hwuwr\expnd-3\expndtw-17  \f0\fs26\b0\i0\expnd0\expndtw0 oq.t\'EBwq.nro\'F7_\'CFLU\expnd-5\expndtw-24  \f0\fs26\b0\i0\expnd0\expndtw0 \'FC\'FC\expnd-4\expndtw-19  \f0\fs26\b0\i0\expnd0\expndtw0 t,'ui\'F9bu\expnd-2\expndtw-12  \f0\fs26\b0\i0\expnd0\expndtw0 rrwguw'u,\expnd-3\expndtw-17  \f0\fs26\b0\i0\expnd0\expndtw0 WJ'u\'F9bu \f0\fs26\b0\i0\expnd0\expndtw-1\charscalex76 t\expnd0\expndtw0 L\expnd-2\expndtw-8\charscalex100  \expnd0\expndtw1\dn4\charscalex87 2\expnd0\expndtw0\up0\charscalex81 \'EF\expnd-8\expndtw-38\charscalex100  \expnd1\expndtw6\charscalex39 L\expnd0\expndtw-1\charscalex85 \'F7\expnd4\expndtw19 \'F8\expnd0\expndtw0\charscalex59 J\expnd-8\expndtw-39\charscalex100  \expnd0\expndtw0\charscalex90 \'F8\'F7\'F8\'FC\charscalex100  \expnd5\expndtw25  \expnd0\expndtw0\charscalex87 ut\expnd4\expndtw21 ,\expnd2\expndtw8\dn4\charscalex95 2\expnd0\expndtw-1\up0\charscalex85 t,\expnd0\expndtw0 \'FC\charscalex100  \expnd-4\expndtw-22  \expnd0\expndtw0\charscalex91 q.tibrQ:\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li920\sl-254\f0\fs26\b0\charscalex95 Pwqt,uwJt,'u hwuwtuwn'u wrmw11-rw'uJ2[! nrn2\'F7_nLU t hbt\'EBU.JWL pw'uw6u.n\'F7_.\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li915\ri217\qc\sl240\slmult1\sb135\f1\fs22\b0 (U   \f0\fs30\b0\i0 =\f4\fs29\i1 L \f0\fs23\b0\i0 \'F0 \f1\fs22\b0\i0 \'F5 \'D7q \'F5 \f1\fs21\b0\i0 q.\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li121\sl240\slmult1\sb190\f1\fs22\b0 n\'F0\'F8t\'F9_,\par\pard\plain\s2\nooverflow\nocwrap\lnbrkrule\li110\fi716\ri157\sl-494\sb15\tx1629\tx2802\tx5864\tx6264\tx7817\f0\fs26\b0\charscalex95 (.U-'u\tab \f0\fs26\b0\i0\charscalex90 hn11.brt,t,\tab \f0\fs26\b0\i0\charscalex80 wrmw11-rn11.w\'F7w'unLtaJ\'CFL'u'u\tab \f0\fs26\b0\i0\charscalex95 t'\tab hwuwtuwn'u\tab \f0\fs26\b0\i0\charscalex85 wrmw11-rwti12t,, \f0\fs26\b0\i0\charscalex95 11-rwu/hb\'F7\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li820\sl240\slmult1\sb72\f4\fs29\b0\i1\charscalex105 L \f1\fs22\b0\i0 P-u u2\'F8\'F6\'F8\'F0n\'F7ut\'F0\'F0 \'F8u\'F8\'F6\'F0 \'F0\'F8q\'F8\'F4u php \'F8\'F7_\'CFL[<\'7DJ\'CFLUU \f1\fs23\b0\i0 t, \f1\fs22\b0\i0 g/hh\'F6\par\sect\sectd\sbkpage\margtsxn980\pard\plain\s2\nooverflow\nocwrap\lnbrkrule\li138\fi678\sl304\slmult1\sb68\f2\fs23\b0\i1 \'D7q- \f0\fs26\b0\i0 t\'EBwr,pbr u2w\'F7wpnLJubrt, t\'EBbuw\'F7wrwr \'F72t,n.t, q.nr,ow\'F7t,g'u \f0\fs36\b0\i0 t \f0\fs26\b0\i0 [!'u\'C3J-hw'unLr mwrwonLt\'B8\'7DJ\'CFL'u\'CFLU \f1\fs25\b0\i0 (100% \f0\fs30\b0\i0 = \f1\fs25\b0\i0 1.0)\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li827\fi4\ri125\sl283\slmult1\sb21\f0\fs34\b0\charscalex90 q{\ul\ulc1  \f0\fs34\b0\i0}\f0\fs34\b0\i0 \'FC \f0\fs26\b0\i0 ut,w\'F7.nr wrmw11-rwti12t, rrwguw'u \'F7\'F8u 2\'CFL\'D7WJW\'D7W'u q.t,'u'u \f1\fs30\b0\i0 t, \f0\fs26\b0\i0 11-r/gb'ut\'EB: \f0\fs26\b0\i0\charscalex85 (.nri.brt, q.'uwhwt\'EBuw'u  t\'EB'ut\'EBbuw\'F7w'u  wr\'C3J-J\'CFL'uw\'F7_bt\'EBnLt\'B8\'7DJ\'CFL'u[! nrn2\'F7_nLU  \f0\fs36\b0\i0 t\expnd-9\expndtw-45  \f0\fs26\b0\i0\expnd0\expndtw0 ut,w\'F7.nr\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li138\sl240\slmult1\sb91\f0\fs26\b0\charscalex85 mwrwonLf\'B8\'7DJW'u  h\'F82\'F7.n\'F7. owtuubrt,  hwt\'EBnLguw'u   uw\'F7wr11-w\'F7n\'F7.  (2whnLrawpbr,nLt\'B8\'7DJ\'CFL'u)\expnd-2\expndtw-9  \f0\fs26\b0\i0\expnd0\expndtw0 :\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li142\fi681\ri151\sl328\slmult1\sb83\tx2245\tx3877\tx5412\tx6899\tx8171\tx8576\f0\fs26\b0 \'DC-wtuubr,t,\tab \f0\fs26\b0\i0\charscalex95 hwt\'EBnLguw'u\tab \f0\fs26\b0\i0\charscalex100 pwqt,uwJt,'u\tab \f0\fs26\b0\i0\charscalex95 gnLgw'ut,2[!\tab \f0\fs26\b0\i0\charscalex90 nrn2\'F7_nLu\tab \f0\fs36\b0\i0\charscalex100 t\tab \f0\fs26\b0\i0\charscalex80 hbt\'EBllJWL \f0\fs26\b0\i0\charscalex100 pw'uw\'E1u.n\'F7_.\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\ri41\qc\sl240\slmult1\sb36\tx440\f1\fs22\b0\charscalex90 \'DC(.\tab \f0\fs30\b0\i0 = \f1\fs22\b0\i0 (.U   :\expnd10\expndtw51  \f0\fs26\b0\i0\expnd0\expndtw0 \'DC-\par\pard\plain\s2\nooverflow\nocwrap\lnbrkrule\li139\sl240\slmult1\sb283\f0\fs26\b0\charscalex90 n r,mbri.,\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li827\fi-4\ri1285\sl340\slmult1\sb225\f0\fs26\b0\charscalex95 \'DC(.-[! owtuubrt, hwt\'EBnLguw'u pwqt,uwJt,'u gnLgw'ut,2'ubr,'u \f1\fs30\b0\i0 t,\expnd-12\expndtw-60  \f0\fs26\b0\i0\expnd0\expndtw0 11-rwu/hb\'F7, \f0\fs26\b0\i0\charscalex100 (.U-'u hwuwtuwn.'u wr,mw11-r,w'uJ2'u \f1\fs30\b0\i0 t, \f0\fs26\b0\i0\expnd0\expndtw0 11-rwu/hb\'F7\par\pard\plain\s1\nooverflow\nocwrap\lnbrkrule\li823\sl240\slmult1\sb1\f0\fs26\b0\charscalex95 \'DC--\'DC wrmw11-rnLf\'B8\'7DJW'u owtuubr,'u \f1\fs30\b0\i0 t, \f0\fs26\b0\i0 11-rwu/hb\'F7:\par}
